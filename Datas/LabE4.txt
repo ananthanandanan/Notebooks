@@ -1,0 +1,4078 @@
+WEBVTT
+
+NOTE duration:"00:45:13.7940000"
+
+NOTE language:en-us
+
+NOTE Confidence: 0.9035916
+
+c41b1c1a-c865-4f5e-9309-856642d3e988
+00:00:06.470 --> 00:00:09.200
+OK, so this is the template for.
+
+NOTE Confidence: 0.84390587
+
+00ab61ae-feaa-4bb8-bb09-77204a79038b
+00:00:09.860 --> 00:00:14.636
+The online MC. So the template
+is being used here also. OK,
+
+NOTE Confidence: 0.84390587
+
+99a44634-e256-4c80-951c-962a9c73a9c1
+00:00:14.636 --> 00:00:19.014
+so this is the code, so first
+we'll start with the
+
+NOTE Confidence: 0.84390587
+
+853b5dd3-adbe-4aa4-a838-7af46990d6f2
+00:00:19.014 --> 00:00:22.596
+introduction. So let's see the
+objectives. So in this.
+
+NOTE Confidence: 0.797349
+
+22f22402-9942-4286-8bdb-f24fda67442a
+00:00:25.280 --> 00:00:29.825
+Presentation we'll see about NLP
+formally introduced with the
+
+NOTE Confidence: 0.797349
+
+0ac08794-633e-40f6-99a4-28834c495713
+00:00:29.825 --> 00:00:36.390
+different set of jargon or the
+key terms that are used in NLP.
+
+NOTE Confidence: 0.797349
+
+df13c65f-8b01-4e8d-b673-111813dce9d3
+00:00:36.390 --> 00:00:41.945
+What is the role of NLP? What
+are the different steps
+
+NOTE Confidence: 0.797349
+
+e3c9db52-3cfe-4cdb-9fe7-169453163241
+00:00:41.945 --> 00:00:46.995
+available or the methods
+available in NLP which you can
+
+NOTE Confidence: 0.797349
+
+dbb281fc-250e-4fd9-bd82-7dc13a80e062
+00:00:46.995 --> 00:00:50.025
+apply? OK, yes, so let's begin.
+
+NOTE Confidence: 0.8610155
+
+31e62a46-bf41-444f-8514-451ec357b13b
+00:00:50.980 --> 00:00:57.445
+So NLP in our daily lives. OK, I
+don't know how many of you use
+
+NOTE Confidence: 0.8610155
+
+2ed280a0-dd5a-4500-8db5-fe9c4dcbf871
+00:00:57.445 --> 00:01:04.341
+it. OK, this we hardly use. But
+in case if we are out of town or
+
+NOTE Confidence: 0.8610155
+
+544a99b3-6e09-43e1-bd63-ec0c4e9de73b
+00:01:04.341 --> 00:01:10.375
+if you go to some other states
+in India probably we may use it.
+
+NOTE Confidence: 0.8610155
+
+3a9e6bbf-f5b0-4b92-bbae-8902fbd3aa09
+00:01:10.375 --> 00:01:15.978
+OK, so we type in something and
+we can have the language getting
+
+NOTE Confidence: 0.8610155
+
+45f301f7-ea4b-492d-8a82-0d40088b38a7
+00:01:15.978 --> 00:01:20.719
+translated here. OK so this is
+one of the commonly used.
+
+NOTE Confidence: 0.8839502
+
+25c2ed9d-c960-4c46-9d7d-9ab80f76228b
+00:01:22.520 --> 00:01:26.887
+Applications of NLP. OK, so
+which is called as the machine
+
+NOTE Confidence: 0.8839502
+
+29e47552-c174-44b2-8184-ec0353eae07d
+00:01:26.887 --> 00:01:31.651
+translation. OK, so you can
+see it on the web and on
+
+NOTE Confidence: 0.8839502
+
+db3e85de-db75-4b86-9bbe-881968b63305
+00:01:31.651 --> 00:01:35.621
+different social media also OK
+and you have something called
+
+NOTE Confidence: 0.8839502
+
+9e991d44-8ac8-478e-bc80-11e78b7ed784
+00:01:35.621 --> 00:01:39.591
+as the text classification
+which is there in your Mail.
+
+NOTE Confidence: 0.8839502
+
+cefb26f3-a1ca-4513-bd29-b310bd088c69
+00:01:39.591 --> 00:01:41.179
+OK so your Mail.
+
+NOTE Confidence: 0.853071
+
+7382efc7-437b-4684-bef7-4f50fb3db88f
+00:01:42.680 --> 00:01:47.113
+Has different categories like
+the spam is there, then you have
+
+NOTE Confidence: 0.853071
+
+24fed244-c773-4406-b6a5-290b68935b41
+00:01:47.113 --> 00:01:51.546
+the categories like updates. If
+you if you have checked your
+
+NOTE Confidence: 0.853071
+
+0dcec7ef-eb4c-406c-8bde-c4754fd49707
+00:01:51.546 --> 00:01:55.979
+mails in Gmail and all you can
+have different categories. Now
+
+NOTE Confidence: 0.853071
+
+3816daab-46a3-4b41-98b9-cdbff11ac051
+00:01:55.979 --> 00:01:57.591
+how these categorization is
+
+NOTE Confidence: 0.8548825
+
+f45b489b-0428-4727-b6cf-42a51e931134
+00:01:57.591 --> 00:02:02.861
+automatically done? It's because
+there are tools of NLP and text
+
+NOTE Confidence: 0.8548825
+
+4cbeb415-7fbc-4dfd-96cb-df86c4a6cb76
+00:02:02.861 --> 00:02:08.438
+mining that is being applied.
+OK, so so that is also the part
+
+NOTE Confidence: 0.8548825
+
+0525cfba-a8de-4c30-ad53-bb5f5a934387
+00:02:08.438 --> 00:02:11.012
+of NLP that is being used
+
+NOTE Confidence: 0.84583884
+
+24d33886-e770-490b-9ae6-d8778b183f6f
+00:02:11.012 --> 00:02:15.552
+everyday. Then of course, the
+question answering systems. OK,
+
+NOTE Confidence: 0.84583884
+
+b7ca9e70-8a61-457c-9bda-f2dd7b4bbb8f
+00:02:15.552 --> 00:02:20.739
+so you have the chat bots. For
+example, if you you would have
+
+NOTE Confidence: 0.84583884
+
+b13c6435-9680-4cae-a50c-746d92200dab
+00:02:20.739 --> 00:02:25.128
+used in your online shopping. If
+sometimes you can get automated
+
+NOTE Confidence: 0.84583884
+
+42af9ffe-0e59-4e01-af3e-2d23643cb936
+00:02:25.128 --> 00:02:29.916
+replies. OK, so all these are
+the chat boards and of course
+
+NOTE Confidence: 0.84583884
+
+45782f4a-311b-4491-bbed-c731722c8f88
+00:02:29.916 --> 00:02:34.704
+the voice assistance where you
+have the you give a question and
+
+NOTE Confidence: 0.84583884
+
+eebb73c4-8b5a-44c3-8c07-da9305d51eb0
+00:02:34.704 --> 00:02:39.093
+you get the answer. So all these
+are the question answering
+
+NOTE Confidence: 0.84583884
+
+336f3d4d-0eec-4c7e-b14a-216c6f3e7d2b
+00:02:39.093 --> 00:02:43.083
+systems or the dialogue systems
+which or which are often.
+
+NOTE Confidence: 0.8359241
+
+39d3205b-37f2-44d9-8b91-88614d94469c
+00:02:43.320 --> 00:02:46.245
+Used by many of the people,
+OK many people.
+
+NOTE Confidence: 0.8623294
+
+242c911f-73cf-49bf-ac76-259a134cafc2
+00:02:47.960 --> 00:02:52.270
+Then in your operating system
+you have something called as
+
+NOTE Confidence: 0.8623294
+
+b1b35a00-3ba9-4cd1-86cc-fd46f90c22b7
+00:02:52.270 --> 00:02:57.873
+the voice to text and text to
+voice also OK, so all these
+
+NOTE Confidence: 0.8623294
+
+45c29f73-327f-454a-b0ee-2de8e875925f
+00:02:57.873 --> 00:03:03.045
+are some of the applications
+OK and the list will go on
+
+NOTE Confidence: 0.8623294
+
+a1c9374d-a879-4778-b98a-12efaeb070ab
+00:03:03.045 --> 00:03:07.786
+OK. There is no end and there
+is lot of applications
+
+NOTE Confidence: 0.8623294
+
+e88dd0e9-8f0e-4bcf-bf3c-010e9cc6a4ee
+00:03:07.786 --> 00:03:12.096
+available which where NLP is
+applied in your daily life.
+
+NOTE Confidence: 0.8366169
+
+e6457da2-9646-43ce-86da-071f92c6008c
+00:03:13.520 --> 00:03:17.240
+Yes then no. How is this
+
+NOTE Confidence: 0.8206116
+
+712f5118-5ab4-40d4-9524-66c5d794a374
+00:03:17.240 --> 00:03:21.890
+achieved OK? It's
+you, there is a.
+
+NOTE Confidence: 0.8754316
+
+9b3770c5-9b4a-4369-9772-d20b4b1ae66b
+00:03:23.180 --> 00:03:27.752
+How is this divergance? You have
+lot of things. Which are you
+
+NOTE Confidence: 0.8754316
+
+ce5c6960-04c3-405a-a0cf-bbd5927b31f6
+00:03:27.752 --> 00:03:32.324
+have the language that you have.
+You have voice. You have text.
+
+NOTE Confidence: 0.8754316
+
+3e5612ab-08d3-44ae-92f1-339754729f10
+00:03:32.324 --> 00:03:35.753
+OK. Different things are
+combined together. How is this
+
+NOTE Confidence: 0.8754316
+
+618924a6-18ae-48b4-996f-008048e10722
+00:03:35.753 --> 00:03:39.182
+possible? OK now this is
+possible because of the
+
+NOTE Confidence: 0.8754316
+
+b68e2600-8699-4d32-aecd-f4a53c1eec57
+00:03:39.182 --> 00:03:40.706
+convergence of computer science.
+
+NOTE Confidence: 0.83021843
+
+2f692148-9f1a-4cfe-9fed-be7d1ef94523
+00:03:41.470 --> 00:03:45.070
+Algorithm slide which is based
+on machine learning. Mostly
+
+NOTE Confidence: 0.83021843
+
+d92a2129-7380-4f17-8d8f-695d83d9cb47
+00:03:45.070 --> 00:03:49.470
+machine learning. Then you have
+an area which is called US
+
+NOTE Confidence: 0.83021843
+
+b34a66d2-548b-487f-9c98-655d8f85f34a
+00:03:49.470 --> 00:03:53.470
+linguistics or will be coming
+across all these terms. So
+
+NOTE Confidence: 0.83021843
+
+8cfc1a6b-f450-4dd9-b634-98fd8901ebdf
+00:03:53.470 --> 00:03:56.670
+today's is actually an
+introduction session to the
+
+NOTE Confidence: 0.83021843
+
+e589b6f3-3f8e-4c35-a832-f20c7769a663
+00:03:56.670 --> 00:04:00.670
+jargon of NLP. There are
+different terms which are there
+
+NOTE Confidence: 0.83021843
+
+cbaa7493-8dc9-4093-a476-c7a34d688ff9
+00:04:00.670 --> 00:04:04.670
+in an LP then logic, then
+statistiques which are related
+
+NOTE Confidence: 0.83021843
+
+e3414543-8677-4b2d-afed-02ac960a77a9
+00:04:04.670 --> 00:04:09.070
+to match OK then you have linear
+algebra. There are different
+
+NOTE Confidence: 0.83021843
+
+0490038f-625b-4ab9-b639-add2ce2874ba
+00:04:09.070 --> 00:04:10.670
+things that comprise together.
+
+NOTE Confidence: 0.7557953
+
+b39acde5-081b-496a-bde9-804c74ee4dc9
+00:04:11.560 --> 00:04:14.920
+To form a successful NLP
+
+NOTE Confidence: 0.90462303
+
+3908c27d-0976-4163-a534-9edbbdc6b585
+00:04:14.920 --> 00:04:19.598
+system, OK.
+Yes, so yes.
+
+NOTE Confidence: 0.84764504
+
+82c671ec-c262-4f86-ab93-591074e8a804
+00:04:20.730 --> 00:04:24.790
+No. Before we like formally
+start so this natural language
+
+NOTE Confidence: 0.84764504
+
+e1707e57-7a6e-4589-8c21-0b6924736b21
+00:04:24.790 --> 00:04:29.662
+processing. So let's see what
+language is OK, so its system of
+
+NOTE Confidence: 0.84764504
+
+60c0793b-1376-4c5a-8b85-d2a82981098c
+00:04:29.662 --> 00:04:34.128
+communication. OK, you have a
+speech and also in writing OK
+
+NOTE Confidence: 0.84764504
+
+efb23c3f-5606-4b0f-93a2-b7559984996b
+00:04:34.128 --> 00:04:38.594
+system of communication which is
+used by so this is the
+
+NOTE Confidence: 0.84764504
+
+13488557-53f4-49ec-bf73-1b186bad507f
+00:04:38.594 --> 00:04:42.654
+dictionary definition OK like
+this is none of my definition.
+
+NOTE Confidence: 0.84764504
+
+5fadb165-8f20-4c7c-bf3f-1d974deab85a
+00:04:42.654 --> 00:04:46.308
+It is formally the formal
+definition from the dictionary.
+
+NOTE Confidence: 0.84764504
+
+5be33c2b-d1b0-4b03-bca6-5ba6b45c2cf4
+00:04:46.308 --> 00:04:50.774
+OK, it's a way of expressing
+your ideas so using language.
+
+NOTE Confidence: 0.8644528
+
+d27ef7b2-77b9-452d-9c65-a99564d530aa
+00:04:50.860 --> 00:04:55.370
+You can, if the disability for
+people they will use sign
+
+NOTE Confidence: 0.8644528
+
+1a8c4398-cf02-47c6-8e5c-dfca6022a608
+00:04:55.370 --> 00:04:59.470
+language to express their
+feelings. So it is actually it's
+
+NOTE Confidence: 0.8644528
+
+611d7cab-b085-4332-874e-53552b543943
+00:04:59.470 --> 00:05:04.390
+still a language. OK, it's also
+language is also a style of
+
+NOTE Confidence: 0.8644528
+
+4157ac85-0077-4192-a83b-bd4d1234ad60
+00:05:04.390 --> 00:05:09.310
+speaking or writing. OK, you can
+have symbols and rules OK, like
+
+NOTE Confidence: 0.8644528
+
+9c993c46-15d2-4a44-8c51-acf00673c4c1
+00:05:09.310 --> 00:05:14.230
+which use in computer. It is
+also a language so the language
+
+NOTE Confidence: 0.8644528
+
+6ec61682-7b5a-4b39-a19a-0b95d1f7a18e
+00:05:14.230 --> 00:05:19.150
+is a system of communication way
+of expressing OK it's it has
+
+NOTE Confidence: 0.8644528
+
+1b29ed64-6f1e-40e0-9dbc-c5858655c25f
+00:05:19.150 --> 00:05:20.790
+some special style of.
+
+NOTE Confidence: 0.8242889
+
+b7b1057b-82d8-46aa-9b1d-39a03e23922e
+00:05:21.070 --> 00:05:26.134
+Writing or speaking an if it is
+a an artificial language which
+
+NOTE Confidence: 0.8242889
+
+f6393ee6-0e53-4d36-856d-d8bcd5531757
+00:05:26.134 --> 00:05:31.198
+will come across it. OK, so
+there will be some symbols and
+
+NOTE Confidence: 0.8242889
+
+1d178b9e-e117-4b8b-9ccc-e7c761d47144
+00:05:31.198 --> 00:05:36.262
+there will be some loads. So
+this is about language now. What
+
+NOTE Confidence: 0.8242889
+
+0440d0ac-827a-457b-9799-e0eddf4e9045
+00:05:36.262 --> 00:05:40.482
+is natural language? Natural
+language is also termed as human
+
+NOTE Confidence: 0.8242889
+
+322e6044-3c7e-4900-b57a-a14d28e78fcf
+00:05:40.482 --> 00:05:45.546
+language OK, which is developed
+in a natural way by people. OK,
+
+NOTE Confidence: 0.8242889
+
+88fa171b-b567-4e39-9ba3-c83be14931e7
+00:05:45.546 --> 00:05:51.454
+it is like it is. It is
+particular to a set of group of
+
+NOTE Confidence: 0.82127047
+
+0fd76afb-6a6e-417f-95b7-e959f024a013
+00:05:51.454 --> 00:05:55.837
+people. OK, so and the languages
+evolved in that particular
+
+NOTE Confidence: 0.82127047
+
+53e5199a-79f6-488c-a2ed-389c1f9d2e94
+00:05:55.837 --> 00:06:01.033
+community or that set of people,
+so that is naturally build up
+
+NOTE Confidence: 0.82127047
+
+0710577b-8419-4b80-bb14-385c301894a4
+00:06:01.033 --> 00:06:06.229
+OK, there is a there is no what
+you say artificially. Somebody
+
+NOTE Confidence: 0.82127047
+
+fd64744a-39ad-4dd9-bf36-a059cc1c92ff
+00:06:06.229 --> 00:06:11.858
+has build some set of words and
+all its natural built in that
+
+NOTE Confidence: 0.82127047
+
+972e6a11-4f36-4ab0-b792-4cf64e468f62
+00:06:11.858 --> 00:06:13.157
+particular community, OK?
+
+NOTE Confidence: 0.88485575
+
+7c242a90-9265-44d5-a5fa-e9fe9edc6a77
+00:06:14.260 --> 00:06:20.050
+Yes, so it is. It is developed
+in the usual way. OK, so that is
+
+NOTE Confidence: 0.88485575
+
+11dd65ec-eaa7-474d-b336-d65f8b3aa022
+00:06:20.050 --> 00:06:24.296
+about natural language. OK, now
+what about what about OK? So
+
+NOTE Confidence: 0.88485575
+
+a70ad599-d67c-4840-abbd-6fc798ba4914
+00:06:24.296 --> 00:06:28.156
+what about artificial language?
+It is the formal language which
+
+NOTE Confidence: 0.88485575
+
+756d5316-8125-415d-a272-59d2ae96ad9b
+00:06:28.156 --> 00:06:30.472
+is which we use in our.
+
+NOTE Confidence: 0.85086954
+
+9979d8dd-6d89-4297-ad8d-6a0f1bef7fa8
+00:06:32.360 --> 00:06:38.360
+In according like the C, C++,
+Java. OK, so all these languages
+
+NOTE Confidence: 0.85086954
+
+cfb891e3-e8b9-40a3-b905-2893a68707e7
+00:06:38.360 --> 00:06:42.860
+artificially built OK, whereas
+natural language is the language
+
+NOTE Confidence: 0.85086954
+
+bc9679d5-5d84-4221-9598-f59178dc1a9f
+00:06:42.860 --> 00:06:48.860
+which is naturally build by the
+people of our set of community.
+
+NOTE Confidence: 0.85086954
+
+6e755d57-c4fc-42c1-84b4-93bf396749a8
+00:06:48.860 --> 00:06:54.860
+OK, now what is natural language
+processing? It is the use of
+
+NOTE Confidence: 0.85086954
+
+2acf263c-05bd-4f78-bba4-c4260a84ec77
+00:06:54.860 --> 00:07:00.360
+computers to process the natural
+languages. So how can you use
+
+NOTE Confidence: 0.85086954
+
+7c5cc73d-3f9a-435b-ad75-c022bf5f464f
+00:07:00.360 --> 00:07:01.860
+the computer facility?
+
+NOTE Confidence: 0.85642254
+
+e4f38951-764d-4c85-a2db-3c3baced7ea2
+00:07:02.230 --> 00:07:07.191
+To process the natural language,
+OK, given a given a natural
+
+NOTE Confidence: 0.85642254
+
+b86a6d56-c448-4ed5-915e-61094ff0820b
+00:07:07.191 --> 00:07:12.152
+language, how can you make
+computer to process it? OK, so
+
+NOTE Confidence: 0.85642254
+
+2f694252-6a8b-44bf-9962-954c50a485ea
+00:07:12.152 --> 00:07:17.113
+that is where natural language
+processing and this is what our
+
+NOTE Confidence: 0.85642254
+
+4ddf57e5-be66-49fd-9f8a-8f26fd0f941e
+00:07:17.113 --> 00:07:22.525
+course about. OK, so NLP is set
+of methods making human language
+
+NOTE Confidence: 0.85642254
+
+bfbaf52c-f429-40cb-943f-24384989a54e
+00:07:22.525 --> 00:07:23.878
+accessible to computers.
+
+NOTE Confidence: 0.8059148
+
+e9e7c268-00ce-40a8-80cd-5a93a3731bbd
+00:07:25.940 --> 00:07:31.580
+OK. No NLP a aims to
+enable interaction between
+
+NOTE Confidence: 0.8059148
+
+08c69c04-0ade-4b37-9bcc-7b50c34d3ab4
+00:07:31.580 --> 00:07:36.060
+machines and natural
+language. It is a specialized
+
+NOTE Confidence: 0.8059148
+
+66e41f46-ee61-4e26-bf28-6b8bf86c0a5c
+00:07:36.060 --> 00:07:40.540
+field of computer science
+engineering. You have AI
+
+NOTE Confidence: 0.8059148
+
+795797da-fb15-4dfd-b470-4a7d819609c4
+00:07:40.540 --> 00:07:42.780
+artist, artificial
+intelligence and
+
+NOTE Confidence: 0.8059148
+
+8d064f28-44a7-444a-bf08-018038a00429
+00:07:42.780 --> 00:07:46.700
+computational linguistics,
+all of them together. All
+
+NOTE Confidence: 0.8059148
+
+8ffab7b6-2b9b-4022-bb42-58bee67a7f45
+00:07:46.700 --> 00:07:51.180
+these things comprise to form
+natural language processing.
+
+NOTE Confidence: 0.8338015
+
+4469ebd0-19de-4696-8d46-d015e0187a77
+00:07:53.210 --> 00:07:57.580
+So what is computational
+linguistics? It is the it's A
+
+NOTE Confidence: 0.8338015
+
+ca98e979-0714-49a7-9490-fd690e78a10a
+00:07:57.580 --> 00:08:02.824
+kind of science of language. OK,
+so there are linguists who who
+
+NOTE Confidence: 0.8338015
+
+4cb20357-0188-4e9e-b99a-88731ff78fb6
+00:08:02.824 --> 00:08:08.068
+only focus on how the different
+like what are the parts of
+
+NOTE Confidence: 0.8338015
+
+8e3475b4-9585-40fc-8308-2abdfc232f4f
+00:08:08.068 --> 00:08:12.438
+different languages. OK, if a
+language is to be considered,
+
+NOTE Confidence: 0.8338015
+
+053a30be-25bc-4bb0-b1e1-cfbdc4aa2ce5
+00:08:12.438 --> 00:08:17.245
+what are the different like, you
+know, not only grammar, there
+
+NOTE Confidence: 0.8338015
+
+57219505-b196-4d68-a05b-fd5d29dc21eb
+00:08:17.245 --> 00:08:22.052
+are different things like you
+have phonetics. How is a sound
+
+NOTE Confidence: 0.8338015
+
+bd730c18-4d17-43f8-a8ed-084cc4e94f48
+00:08:22.052 --> 00:08:23.800
+produced? What how different?
+
+NOTE Confidence: 0.8644074
+
+0e140377-6ce0-4570-8d0e-974fcd1d7f11
+00:08:24.350 --> 00:08:29.693
+Words combine together to form a
+new word, which is called as the
+
+NOTE Confidence: 0.8644074
+
+5d1110eb-2175-44ed-a09b-40669c564a30
+00:08:29.693 --> 00:08:33.803
+morphology. OK, so this is a
+different area itself. This
+
+NOTE Confidence: 0.8644074
+
+c87ad78f-7643-44b8-87bb-76b220a4f2c2
+00:08:33.803 --> 00:08:37.913
+linguistics, it's a different
+area itself. OK, when you apply
+
+NOTE Confidence: 0.8644074
+
+b76c5cbb-b7b4-42a3-9921-61bdb0da22aa
+00:08:37.913 --> 00:08:41.612
+computational oh, are you
+computing to computing tools to
+
+NOTE Confidence: 0.8644074
+
+290fef1a-b5e1-4dfc-80e6-20c31a39e43d
+00:08:41.612 --> 00:08:45.311
+process? Language is so you can
+actually use computational
+
+NOTE Confidence: 0.8644074
+
+a5c5c923-c6b8-4947-b892-b0fd0735326a
+00:08:45.311 --> 00:08:48.188
+linguistics and natural language
+processing together, OK?
+
+NOTE Confidence: 0.8115584
+
+361f9888-81f9-4710-93ad-6c1c46d26106
+00:08:50.320 --> 00:08:54.560
+Both are actually common,
+commonly used, so if you say
+
+NOTE Confidence: 0.8115584
+
+9ef97327-989e-4a35-96ea-e29e57e04500
+00:08:54.560 --> 00:08:58.376
+computational linguistics or
+NLP, both are commonly used. OK,
+
+NOTE Confidence: 0.8115584
+
+cf27b9ca-eba2-4dac-8e00-2a105d0957f4
+00:08:58.376 --> 00:09:02.616
+yes, so linguistics the goal is
+to understand how languages
+
+NOTE Confidence: 0.8115584
+
+6f9833c5-2e97-4b72-96c7-f62e86d546a1
+00:09:02.616 --> 00:09:07.704
+work, so it is just like the
+science behind the language. OK,
+
+NOTE Confidence: 0.8115584
+
+4e213b84-5418-4432-a08c-cb2c4d1d0486
+00:09:07.704 --> 00:09:11.944
+so you have morphology, you have
+syntax of the language,
+
+NOTE Confidence: 0.8115584
+
+06ee0db8-bfb5-45b5-b152-26ebe07597a3
+00:09:11.944 --> 00:09:16.184
+phonology, phonetics and all,
+which is part of linguistics OK?
+
+NOTE Confidence: 0.77934545
+
+392603ad-3381-48bb-9453-58742e3eb954
+00:09:17.800 --> 00:09:23.264
+Then AI. OK, so AI
+is the most.
+
+NOTE Confidence: 0.8258142
+
+5d57e75f-e91d-4f9b-bad8-c88f70e04342
+00:09:24.830 --> 00:09:30.209
+Catch cheating in the coming era
+because we are trying to
+
+NOTE Confidence: 0.8258142
+
+e1f1970c-e685-4e59-b1af-b990debd289b
+00:09:30.209 --> 00:09:35.099
+automate the human mental mental
+capabilities. OK, so even the
+
+NOTE Confidence: 0.8258142
+
+1dd3a31f-6232-41f8-9b56-64be63cc9106
+00:09:35.099 --> 00:09:41.456
+language which we speak is part
+of our it's part of human. OK,
+
+NOTE Confidence: 0.8258142
+
+adf3aa18-b644-4dd2-b17f-2886781c3be7
+00:09:41.456 --> 00:09:47.813
+so how AI can be applied in
+processing language? OK so AI is
+
+NOTE Confidence: 0.8258142
+
+49e2d53b-330f-4144-b89a-0b9f633696d3
+00:09:47.813 --> 00:09:54.170
+part of NLP itself. OK we also
+have machine learning which is a
+
+NOTE Confidence: 0.89601314
+
+415aed5b-7826-4267-96fd-2c82577a1991
+00:09:54.170 --> 00:10:00.036
+subset of. EA OK, so I think you
+have the data mining which is.
+
+NOTE Confidence: 0.8454605
+
+8fcb5471-e11d-4b80-b80d-d6c248f2d63f
+00:10:00.770 --> 00:10:05.555
+OK, so data mining is actually
+a subset of machine learning.
+
+NOTE Confidence: 0.8454605
+
+34597952-ed15-4bce-b26a-3dd9fe92b193
+00:10:05.555 --> 00:10:10.340
+OK, so yes, so machine
+learning is also part of NLP.
+
+NOTE Confidence: 0.8454605
+
+225d24e9-0482-483a-b441-ec574c997810
+00:10:10.340 --> 00:10:14.255
+You have machine learning
+tools also apply to process
+
+NOTE Confidence: 0.8454605
+
+026bb169-ada3-475d-8b05-cec36d9ea35e
+00:10:14.255 --> 00:10:15.560
+natural language processing.
+
+NOTE Confidence: 0.85151
+
+20bc3085-4b54-440b-85c6-682a16dd4052
+00:10:17.010 --> 00:10:22.314
+Yes, so here in machine learning
+is like you, you are actually
+
+NOTE Confidence: 0.85151
+
+ed02691c-551a-421f-a07c-1c68bcb7f1be
+00:10:22.314 --> 00:10:27.176
+building a model. OK, given what
+is machine learning, because in
+
+NOTE Confidence: 0.85151
+
+dafa9430-390f-432e-b742-a51003b326e3
+00:10:27.176 --> 00:10:33.806
+some of you I got the input that
+most of you are very new to
+
+NOTE Confidence: 0.85151
+
+dd79c71d-4235-418d-95f4-9963ec545fa1
+00:10:33.806 --> 00:10:38.668
+machine learning. It's actually
+that you have a given set of
+
+NOTE Confidence: 0.85151
+
+ef921bdd-af9c-4d18-9bb3-a74e6431bb92
+00:10:38.668 --> 00:10:43.972
+examples. OK some X one X2
+examples are there. OK now when
+
+NOTE Confidence: 0.85151
+
+f63d8c21-baf5-487b-a658-4de5d0870620
+00:10:43.972 --> 00:10:47.066
+new XN comes OK so there is.
+
+NOTE Confidence: 0.7295783
+
+59f55280-bd89-4738-b467-282eab285f47
+00:10:47.480 --> 00:10:49.727
+This exists map to do some why?
+
+NOTE Confidence: 0.741967
+
+87501f5a-1398-4187-ab4d-5a979418ab6b
+00:10:50.380 --> 00:10:55.294
+By one by two. OK, when a new
+Excel comes what will be?
+
+NOTE Confidence: 0.858962
+
+be4ce36e-9ffb-4328-b77e-4afc3d5c4194
+00:10:56.080 --> 00:11:01.890
+A white in OK. So OK, this is
+a very general thing. OK you
+
+NOTE Confidence: 0.858962
+
+8860819d-8690-4f25-ab2d-f9277215b4a4
+00:11:01.890 --> 00:11:05.625
+have a different course on
+machine learning, so this
+
+NOTE Confidence: 0.858962
+
+337d9be5-05c9-4798-b74d-ae88a0be0719
+00:11:05.625 --> 00:11:11.020
+probably you learn later on.
+OK, so how can given a set of
+
+NOTE Confidence: 0.858962
+
+5389dc17-623f-48bc-bf95-14df3d5e77b1
+00:11:11.020 --> 00:11:13.095
+example? How can you like?
+
+NOTE Confidence: 0.86783624
+
+3f61ecb3-1222-49f4-9026-fc298e1ffd4f
+00:11:14.970 --> 00:11:19.002
+How can you develop a model
+OK? How can you develop a
+
+NOTE Confidence: 0.86783624
+
+7dc5523d-0f32-46a8-97e3-1045841491be
+00:11:19.002 --> 00:11:22.026
+model in which any new
+unknown examples come? How
+
+NOTE Confidence: 0.86783624
+
+dbc76444-6823-4233-a779-b86508c7ff75
+00:11:22.026 --> 00:11:26.394
+can you map it to the output?
+OK, so that is what is
+
+NOTE Confidence: 0.86783624
+
+2d1bcc99-a268-46dd-9116-f042bf51fcc6
+00:11:26.394 --> 00:11:29.754
+machine learning in very
+general OK terms, you have a
+
+NOTE Confidence: 0.86783624
+
+78bf1002-cafe-442a-8b67-a1d5d505d77b
+00:11:29.754 --> 00:11:32.442
+different code, so you can
+probably learn them.
+
+NOTE Confidence: 0.8556877
+
+250e4449-2984-4406-8ff8-a72bc1253045
+00:11:33.600 --> 00:11:39.133
+OK, so since natural language is
+very complex, you can actually
+
+NOTE Confidence: 0.8556877
+
+4c91d133-1819-4f24-8d3a-388f4c5fa863
+00:11:39.133 --> 00:11:44.163
+apply machine learning. Also
+there an most of the successful
+
+NOTE Confidence: 0.8556877
+
+0bdcaf9a-921b-4f8e-855f-97a4f2c72e75
+00:11:44.163 --> 00:11:48.187
+NLP applications in machine
+learning is actually used.
+
+NOTE Confidence: 0.71905696
+
+158b67c1-46c3-49ed-aa39-65a89312da97
+00:11:49.580 --> 00:11:56.371
+Yes. No, computer science is
+also part of NLP Becausw most of
+
+NOTE Confidence: 0.71905696
+
+53b26622-24eb-47b8-84df-14d0df30458d
+00:11:56.371 --> 00:11:58.676
+The thing is the code.
+
+NOTE Confidence: 0.79805386
+
+5857ba18-a504-4364-8a1a-15d955641b43
+00:12:00.380 --> 00:12:05.276
+And they'll be sorry. And
+CS algorithms you can
+
+NOTE Confidence: 0.79805386
+
+d52248c0-7cdd-45ef-8f81-7dc84e3e9f7f
+00:12:05.276 --> 00:12:09.628
+actually apply. OK, you
+can use on distributed
+
+NOTE Confidence: 0.79805386
+
+ca92d346-c36e-49c9-ba2c-a3c1be969295
+00:12:09.628 --> 00:12:13.980
+assistance and GPU's. OK,
+so even computer science.
+
+NOTE Confidence: 0.8081889
+
+a3c40194-ab68-4769-8c9c-df050e5c3136
+00:12:15.290 --> 00:12:18.146
+Computer science algorithms you
+also using and.
+
+NOTE Confidence: 0.8371897
+
+439106a4-94b9-44a2-84c8-646fcbb8aac2
+00:12:20.150 --> 00:12:25.790
+OK, so and repeat today and
+future. So you have, uh, so
+
+NOTE Confidence: 0.8371897
+
+dd111b02-40eb-4783-b2f0-76858582ba3c
+00:12:25.790 --> 00:12:30.960
+today you have. You can search
+for things OK. Summarization is
+
+NOTE Confidence: 0.8371897
+
+16af37ec-e543-49a9-bfe2-37d2ccfbb5bf
+00:12:30.960 --> 00:12:34.720
+also summarization, so all these
+are applications. OK
+
+NOTE Confidence: 0.8371897
+
+d7c79341-9b9f-496b-869b-9ec643bab0ea
+00:12:34.720 --> 00:12:40.830
+applications of NLP so you can
+search the web. OK there is the
+
+NOTE Confidence: 0.8371897
+
+5c0bf42c-c82f-41a1-baaf-02fa21a494bd
+00:12:40.830 --> 00:12:45.060
+auto complete so you type
+something and automatically it
+
+NOTE Confidence: 0.8371897
+
+2fd40977-8795-4597-b405-3e58075f9824
+00:12:45.060 --> 00:12:50.230
+is. It's helping you to your
+suppose you're typing a chat.
+
+NOTE Confidence: 0.8118962
+
+2dfe63a8-f1f8-4dc2-a35e-a6ff8493effe
+00:12:50.300 --> 00:12:53.513
+In your WhatsApp, so
+automatically the autocomplete
+
+NOTE Confidence: 0.8118962
+
+5cd042b9-b981-4c4b-b8f8-0b5ff857f747
+00:12:53.513 --> 00:12:59.939
+will help you. OK, so all these
+are parts of NLP that is also
+
+NOTE Confidence: 0.8118962
+
+22fc7a8d-520b-4539-a3c1-86792f77690f
+00:12:59.939 --> 00:13:04.988
+used on daily basis. The anti
+spam machine translation OK chat
+
+NOTE Confidence: 0.8118962
+
+a58897aa-2b98-4d5f-894f-b7eb268f66ab
+00:13:04.988 --> 00:13:10.955
+Boards and works OK. Now what is
+the future? There are future of
+
+NOTE Confidence: 0.8118962
+
+a3e8ba15-595b-4077-8237-6052e30f4287
+00:13:10.955 --> 00:13:16.463
+NLP. You can have all these
+things in which NLP research is
+
+NOTE Confidence: 0.8118962
+
+d3aaf521-1c7c-41d1-84cf-2bf563f91d01
+00:13:16.463 --> 00:13:21.512
+going on. OK, so auto grading in
+which you just tried.
+
+NOTE Confidence: 0.8799636
+
+5ac5f622-f6b6-44f2-bb41-92cf56c635a5
+00:13:21.620 --> 00:13:25.116
+The answers of the questions
+will automatically generated.
+
+NOTE Confidence: 0.8799636
+
+bda9a49c-05c4-4247-ace0-51f4cbd85378
+00:13:25.116 --> 00:13:29.049
+Questions will also be
+generated. The answers that you
+
+NOTE Confidence: 0.8799636
+
+a51b1470-2028-4456-9f63-24bf3e087879
+00:13:29.049 --> 00:13:32.982
+put in OK, so automatic
+evaluation system, even this
+
+NOTE Confidence: 0.8799636
+
+66252604-6bca-45a8-b6b3-8bce2c1a0c27
+00:13:32.982 --> 00:13:36.915
+text summarization is also. It's
+still going on OK.
+
+NOTE Confidence: 0.83201975
+
+ef9dcb2e-1e82-4b19-98a2-5cd09ddb6a97
+00:13:38.170 --> 00:13:43.354
+And many of the robotic
+automation and LP is used OK, so
+
+NOTE Confidence: 0.83201975
+
+bc57b657-8af1-4c14-8a3b-64384bcf0a14
+00:13:43.354 --> 00:13:45.514
+this is the part one.
+
+NOTE Confidence: 0.9047594
+
+ffd498a8-a8de-47b7-800d-36ec7355956e
+00:13:46.560 --> 00:13:50.256
+So we have just gone
+through the different.
+
+NOTE Confidence: 0.67104864
+
+c59a5da3-9b2d-4e7a-8ccc-08b808bb7007
+00:13:53.730 --> 00:13:57.180
+NLP jargon. No, we will just.
+
+NOTE Confidence: 0.8383064
+
+202b96ce-2121-45a4-b807-11bfc139216c
+00:13:57.810 --> 00:14:00.138
+So start with the next topic.
+
+NOTE Confidence: 0.6438294
+
+4142beb9-5369-4be4-bb6a-af54f452d5a7
+00:14:00.950 --> 00:14:03.018
+Which is any basics.
+
+NOTE Confidence: 0.8730566
+
+f6051c0d-ab36-400a-a4dc-5fc3b6d81836
+00:14:04.800 --> 00:14:09.101
+Yes, any doubts you have
+there is no, we have not
+
+NOTE Confidence: 0.8730566
+
+9dfc34a5-0004-4c6d-8f44-c91ba890fedd
+00:14:09.101 --> 00:14:10.274
+started anything yet.
+
+NOTE Confidence: 0.88418496
+
+8c00d109-8835-4a03-b4ce-a9b67b48bec9
+00:14:11.830 --> 00:14:12.380
+OK.
+
+NOTE Confidence: 0.8316141
+
+25e26f86-f764-4bbe-b6ce-bdb13d82b7a9
+00:14:13.990 --> 00:14:16.048
+Shall I proceed with the
+next topic?
+
+NOTE Confidence: 0.894624
+
+0871f98f-24d5-4d79-aefd-9baa0650f3f1
+00:14:18.570 --> 00:14:19.290
+Yes.
+
+NOTE Confidence: 0.6671906
+
+f9e8d692-ef3c-4ec0-84fc-3458426a358c
+00:14:21.180 --> 00:14:25.780
+Yes, ma'am.
+OK, OK so um.
+
+NOTE Confidence: 0.86024
+
+158646e8-3831-47e0-9a5c-619e83e71e5a
+00:14:27.170 --> 00:14:31.083
+Yes, so we we can. We can just
+have a very short session.
+
+NOTE Confidence: 0.86024
+
+1d0891b3-c23f-4c6e-beab-1fa77cbda972
+00:14:31.083 --> 00:14:34.093
+After that we can have some
+question answer session also.
+
+NOTE Confidence: 0.85207057
+
+daab5351-e6bd-4aa5-8468-5513324150e0
+00:14:42.940 --> 00:14:43.720
+So.
+
+NOTE Confidence: 0.7966946
+
+3af4d699-7d3d-4c64-a866-a6baaa10a029
+00:14:45.040 --> 00:14:51.820
+Yes. What is a natural language
+processing? We know. OK, so OK,
+
+NOTE Confidence: 0.7966946
+
+eb701052-5e13-457e-8652-c062e01f3d4b
+00:14:51.820 --> 00:14:56.905
+so every computer follows an
+IPO. What is IPO?
+
+NOTE Confidence: 0.8560273
+
+f277ca12-b9f9-4d5a-bd5f-cc98c8277f1a
+00:14:59.770 --> 00:15:02.706
+Whichever computer or whichever
+processing or computing device
+
+NOTE Confidence: 0.8560273
+
+57ab2e28-22da-4655-803b-dba7ce18aa68
+00:15:02.706 --> 00:15:06.376
+you take, it follows an IP. Or
+does it mean?
+
+NOTE Confidence: 0.75751233
+
+4a3c6175-c7a6-46c1-a0e0-cbfa08d71bbc
+00:15:07.540 --> 00:15:08.890
+There is input.
+
+NOTE Confidence: 0.8693949
+
+1049aedb-147c-433c-98aa-75396c64160f
+00:15:10.510 --> 00:15:13.090
+OK, there is processing.
+
+NOTE Confidence: 0.8336912
+
+70de16c0-cc50-41af-8888-86798dd0d07a
+00:15:16.230 --> 00:15:19.510
+And there is. Oh, OK.
+
+NOTE Confidence: 0.83811665
+
+25fed655-ed4b-405d-94cd-b9ea0055ec8f
+00:15:21.410 --> 00:15:26.462
+Import processing and output. So
+every here if you take the input
+
+NOTE Confidence: 0.83811665
+
+56cfb002-1d33-40fc-9c06-60485a2f9f36
+00:15:26.462 --> 00:15:32.777
+and the output is the data OK
+here. Also it is the data OK and
+
+NOTE Confidence: 0.83811665
+
+45a2e67f-9f21-4f68-a38f-fb7a3276309e
+00:15:32.777 --> 00:15:36.987
+this is the processing. The
+algorithms are models of machine
+
+NOTE Confidence: 0.83811665
+
+3052907a-fcd4-4313-be91-dd124143d87a
+00:15:36.987 --> 00:15:38.671
+learning and so on.
+
+NOTE Confidence: 0.7947881
+
+3191673a-5c6c-4f40-bc21-430af2f42ce6
+00:15:39.550 --> 00:15:42.760
+No. How what is this data?
+
+NOTE Confidence: 0.9141289
+
+3388f725-31d2-4022-8fc0-f94b81da9922
+00:15:43.500 --> 00:15:45.816
+OK, so let's see about data.
+
+NOTE Confidence: 0.8416269
+
+984dd727-5671-46a6-8da5-cf253f4f2328
+00:15:47.050 --> 00:15:51.460
+OK, now if so, there is
+somebody's done these statistics
+
+NOTE Confidence: 0.8416269
+
+9c30698e-bc43-4366-8c0a-1daffe315ade
+00:15:51.460 --> 00:15:57.634
+on how. What is the amount of
+data that is being used on a
+
+NOTE Confidence: 0.8416269
+
+0355e348-a7aa-495e-bb5a-882ea640a2f8
+00:15:57.634 --> 00:15:58.957
+daily basis OK?
+
+NOTE Confidence: 0.8445029
+
+27a24fc9-c648-4778-8f47-e42b70926854
+00:15:59.640 --> 00:16:06.180
+So there are around 500 millions
+of tweets or these the Twitter
+
+NOTE Confidence: 0.8445029
+
+c5124dce-2dd7-4c43-8177-19eb7586df96
+00:16:06.180 --> 00:16:13.810
+posts. You can find every on on
+a daily basis. OK, and some 300
+
+NOTE Confidence: 0.8445029
+
+63c64977-a580-4b52-8ab4-ad826f97a7b0
+00:16:13.810 --> 00:16:19.260
+billion you can find email and
+other types of messages.
+
+NOTE Confidence: 0.81106365
+
+9a211da4-b0e3-404b-967f-4ce893d8499a
+00:16:20.070 --> 00:16:24.756
+UH-65 billions of chats and
+other things. OK, so these are
+
+NOTE Confidence: 0.81106365
+
+1de49f3d-3dc2-4bbc-9c6a-ec559ad64bc0
+00:16:24.756 --> 00:16:30.294
+the now. So this is. This slide
+just tells you the impact of
+
+NOTE Confidence: 0.81106365
+
+b333bb0b-5de3-4512-b6c7-9e0815cfffea
+00:16:30.294 --> 00:16:36.258
+data that is there on the net.
+OK, on the Internet you have so
+
+NOTE Confidence: 0.81106365
+
+ad0180fa-8c02-4ad8-ba53-b51a1a55a3d2
+00:16:36.258 --> 00:16:43.074
+much. Usually we had we had the
+GP. Now it is 3 TB then now why
+
+NOTE Confidence: 0.81106365
+
+889de822-6d50-487f-adb3-94fc5768f721
+00:16:43.074 --> 00:16:48.612
+B is also there then EB is there
+so all these are different
+
+NOTE Confidence: 0.81106365
+
+afb635e7-f2da-44f2-a363-718c1ea592db
+00:16:48.612 --> 00:16:50.316
+measurements of data OK?
+
+NOTE Confidence: 0.8950145
+
+f44e5467-ac14-4112-ba6f-0f9a3c4c1bf5
+00:16:50.650 --> 00:16:53.786
+So you can find the
+relevance of data.
+
+NOTE Confidence: 0.90891093
+
+bf762e73-ed01-4c27-918c-a3e3ab323eb4
+00:16:55.340 --> 00:16:59.461
+In a day in a daily basis,
+this is the amount of data
+
+NOTE Confidence: 0.90891093
+
+c5eabb1c-3b8e-4e96-94a2-24e959cbabb8
+00:16:59.461 --> 00:17:00.729
+that is being generated.
+
+NOTE Confidence: 0.7966838
+
+625a4d0e-b150-451d-9712-25717c822b2e
+00:17:03.100 --> 00:17:10.576
+Now this is also a set of
+data. OK, so you have a you
+
+NOTE Confidence: 0.7966838
+
+fa988c76-30e3-47f6-81bb-27997655fac3
+00:17:10.576 --> 00:17:16.450
+have data in column. You have
+the age, job status, OK
+
+NOTE Confidence: 0.7966838
+
+9f86ba09-313b-45c0-9bde-378d1d1ef072
+00:17:16.450 --> 00:17:21.790
+education and so now I want you
+to compare this.
+
+NOTE Confidence: 0.83281094
+
+c0f9c9d3-518b-45ff-bf96-de0121c475d0
+00:17:22.570 --> 00:17:27.575
+With this OK, this is also a
+data. OK, this is also data.
+
+NOTE Confidence: 0.802358
+
+51400965-7936-4f76-be80-f9106e35a00c
+00:17:29.120 --> 00:17:32.891
+The banking system data
+is there and you have
+
+NOTE Confidence: 0.802358
+
+714b4a9d-7493-45dd-b081-1348a7773bf7
+00:17:32.891 --> 00:17:34.567
+data on Corona vendors.
+
+NOTE Confidence: 0.90110284
+
+1badc129-e3fa-44d8-933e-52470c5833cb
+00:17:36.020 --> 00:17:40.414
+You have some information here.
+Now I want you to tell me what
+
+NOTE Confidence: 0.90110284
+
+a122f9eb-5c21-435c-ac46-ec95a0c5bce3
+00:17:40.414 --> 00:17:43.456
+is the difference between this
+data and this data.
+
+NOTE Confidence: 0.89322877
+
+f8519b61-826b-4bec-8cec-652abfacc40d
+00:17:45.530 --> 00:17:47.330
+Yes, somebody from the group.
+
+NOTE Confidence: 0.86861295
+
+b689b460-2560-445b-8ac9-5d6dfc5d27d0
+00:17:52.740 --> 00:17:58.260
+Yes, this is also data and this
+is also data. Can somebody?
+
+NOTE Confidence: 0.91217273
+
+3b90c2f5-678c-4f5e-b8dc-1a6cfd02a25b
+00:18:00.890 --> 00:18:04.562
+OK, you you see this to be
+organized, right?
+
+NOTE Confidence: 0.7137547
+
+5bdd91f1-7626-4dd0-b5c6-303288d73e47
+00:18:05.640 --> 00:18:06.040
+Map.
+
+NOTE Confidence: 0.7851506
+
+3d98ddcd-e04c-4b31-9dce-c8d853f31d45
+00:18:07.820 --> 00:18:12.028
+Hi yes, yes you have data
+in tables.
+
+NOTE Confidence: 0.9201428
+
+667c48b7-c07f-4239-95cf-5f8d2021659e
+00:18:13.470 --> 00:18:15.018
+And what about this?
+
+NOTE Confidence: 0.77200204
+
+36fe5362-8cde-41a6-83e9-bf4bc0bad542
+00:18:16.330 --> 00:18:17.398
+Yeah, it's a general.
+
+NOTE Confidence: 0.89279807
+
+410e7189-90b0-415c-8487-c5863e69b464
+00:18:18.480 --> 00:18:20.688
+Or it is just general OK?
+
+NOTE Confidence: 0.84862566
+
+f2eaba4e-f904-4ff7-b880-51e4d22b3362
+00:18:21.480 --> 00:18:25.056
+And there is no structure
+as a trait.
+
+NOTE Confidence: 0.90233123
+
+79455442-2d43-4103-9d95-aa78eae97749
+00:18:26.830 --> 00:18:28.306
+Do you have a structure here?
+
+NOTE Confidence: 0.82307994
+
+ede992e7-2f11-4249-9e5b-6b2defbc208d
+00:18:30.570 --> 00:18:34.354
+Here you have a structure.
+Yes yes yes.
+
+NOTE Confidence: 0.31427258
+
+d9f759c6-4cd3-43cd-831a-d43dcddfe75d
+00:18:36.280 --> 00:18:36.910
+Evening.
+
+NOTE Confidence: 0.44131526
+
+f281f019-38a5-4afd-8335-cb8d5f5788ce
+00:18:38.430 --> 00:18:38.930
+Huh?
+
+NOTE Confidence: 0.7838774
+
+9625dfe2-80b2-425c-be98-9ae7874eff44
+00:18:40.970 --> 00:18:42.286
+I don't know where they
+take you.
+
+NOTE Confidence: 0.88439846
+
+843356e8-d66e-478f-801a-a153a0afe6fd
+00:18:44.810 --> 00:18:46.980
+OK, so I think it's not clear.
+
+NOTE Confidence: 0.8140463
+
+6359a956-f695-4f4a-9f61-c315a2ad61eb
+00:18:48.380 --> 00:18:54.078
+OK so I will. I don't know most
+of your names and only few
+
+NOTE Confidence: 0.8140463
+
+c6d987e1-1b18-40ba-9f03-fe6bad779826
+00:18:54.078 --> 00:18:58.962
+names. I know OK, but we'll have
+the interaction session later on
+
+NOTE Confidence: 0.8140463
+
+7f08acf1-2efe-4372-9409-bd6d094816c7
+00:18:58.962 --> 00:19:01.811
+after we finish the
+theorisation. OK, so.
+
+NOTE Confidence: 0.8479808
+
+fb8240ca-f98a-4b0a-b369-a4c1b118a946
+00:19:02.410 --> 00:19:08.024
+Yeah, so so these are the like
+the text data that you find. OK,
+
+NOTE Confidence: 0.8479808
+
+e4a984a1-7d89-403d-a3c8-5abea1ae3365
+00:19:08.024 --> 00:19:12.836
+you have the organized table
+data and you have some kind of
+
+NOTE Confidence: 0.8479808
+
+5fb7dbce-57b2-4cb0-9c4a-f39da7e6749a
+00:19:12.836 --> 00:19:14.841
+textual data in this format.
+
+NOTE Confidence: 0.8899232
+
+aee5bbfb-5335-4bf6-ab34-9fd9019b9b8d
+00:19:15.800 --> 00:19:16.270
+OK.
+
+NOTE Confidence: 0.8718123
+
+807fb53c-c5e0-4038-94b8-b31e9679d8e5
+00:19:17.830 --> 00:19:22.510
+No, this data is called as
+structured data.
+
+NOTE Confidence: 0.9074314
+
+ff4ba5a8-4346-41b9-9513-b32c2528cded
+00:19:24.170 --> 00:19:25.748
+OK, and this.
+
+NOTE Confidence: 0.86297333
+
+f13371ca-9964-406a-af8a-417da4ae0204
+00:19:29.840 --> 00:19:35.348
+And this data is called us non
+structured data. So there are
+
+NOTE Confidence: 0.86297333
+
+91139956-626d-4202-ab9b-23499f33274d
+00:19:35.348 --> 00:19:40.397
+two types of data which is the
+structured data and unstructured
+
+NOTE Confidence: 0.86297333
+
+721c6012-21ae-43fe-aa71-0902782561e3
+00:19:40.397 --> 00:19:45.905
+data. OK so structured data. It
+has fixed dimension. The data is
+
+NOTE Confidence: 0.86297333
+
+fbf522d5-8138-47b9-b1f8-0e4928d109e8
+00:19:45.905 --> 00:19:50.954
+organized usually in tables.
+Suppose if you have data that is
+
+NOTE Confidence: 0.86297333
+
+6c598f3c-07d4-4878-9fa9-e51d42ff0a4f
+00:19:50.954 --> 00:19:55.544
+key valued pair. It's also
+structured data OK and usually
+
+NOTE Confidence: 0.86297333
+
+6852ad3c-21a6-4599-a60f-09325e3aadcf
+00:19:55.544 --> 00:19:58.298
+the structured data is simple to
+
+NOTE Confidence: 0.8652837
+
+e4ce50de-ded3-45ec-8374-376427d51bdd
+00:19:58.298 --> 00:20:02.424
+process OK. There is no need
+for intermediate
+
+NOTE Confidence: 0.8652837
+
+794b6ed3-7b92-462b-85d1-c77459b80227
+00:20:02.424 --> 00:20:05.042
+representation. We'll see
+what is this intermediate
+
+NOTE Confidence: 0.8652837
+
+f801ea25-1129-4999-a781-fef96195cdb8
+00:20:05.042 --> 00:20:08.034
+representation and later on
+OK, whereas in unstructured
+
+NOTE Confidence: 0.8652837
+
+a408c251-2529-4686-8d0d-05990f823fb6
+00:20:08.034 --> 00:20:11.774
+data you don't have a
+dimension. OK, now if you
+
+NOTE Confidence: 0.8652837
+
+d4e4ae8d-fa9d-4d43-8763-3e6527675e30
+00:20:11.774 --> 00:20:12.522
+take the.
+
+NOTE Confidence: 0.842501
+
+e09df980-be65-4a71-bdc6-70c553a1d2b4
+00:20:15.490 --> 00:20:19.621
+Previous this thing here.
+Here the data there is
+
+NOTE Confidence: 0.842501
+
+0fc7e065-022c-41b8-9abb-8594bd05f375
+00:20:19.621 --> 00:20:24.211
+there is no organization.
+OK there is no. There is
+
+NOTE Confidence: 0.842501
+
+05dd624e-0ef3-45de-8c6b-23ed86376a59
+00:20:24.211 --> 00:20:26.047
+no dimension message OK.
+
+NOTE Confidence: 0.87874186
+
+598d1215-2b2c-4488-9b24-abaafb54836b
+00:20:27.180 --> 00:20:31.060
+And yes, there is no fixture
+dimension. It's not organized.
+
+NOTE Confidence: 0.87874186
+
+262ddeda-dbfb-4259-99a9-305a9b4738b7
+00:20:31.060 --> 00:20:35.328
+OK, there is no specific
+order. OK, there is no key
+
+NOTE Confidence: 0.87874186
+
+31f61fb8-ceef-466c-9234-f711ecd13324
+00:20:35.328 --> 00:20:39.208
+value, and there is no
+specific order. OK and here.
+
+NOTE Confidence: 0.8743549
+
+78cf5e39-b416-4322-b922-20d586538b5d
+00:20:40.370 --> 00:20:46.118
+The thing is, the the processing
+of such data is very complex.
+
+NOTE Confidence: 0.91309863
+
+30caca03-d0e7-486c-bacf-6d7b2ceea8d0
+00:20:47.430 --> 00:20:53.040
+And also there is a need for
+some kind of intermediate
+
+NOTE Confidence: 0.8475262
+
+35e19c6b-5a27-4b47-89d2-cd05ec7871c6
+00:20:53.040 --> 00:20:58.927
+representations OK? Yes, so this
+is the two set of data or two
+
+NOTE Confidence: 0.8475262
+
+7dde71d9-92f4-414c-9fea-46bacc8a148a
+00:20:58.927 --> 00:21:03.698
+types of or two categories of
+data. OK, now let me ask you,
+
+NOTE Confidence: 0.8475262
+
+0c9e0cfc-fdbf-47b2-bda1-0a0f4a04d07f
+00:21:03.698 --> 00:21:07.735
+uh, I think data mining is
+already started right for you.
+
+NOTE Confidence: 0.8881497
+
+39aeb255-acee-4851-b526-33482929cfa2
+00:21:09.140 --> 00:21:14.249
+Can you can you just tell me
+where will the data mining data
+
+NOTE Confidence: 0.8881497
+
+8fde7a71-ca11-4e61-8323-67f604d73807
+00:21:14.249 --> 00:21:17.393
+come into, whether it is
+structured or unstructured?
+
+NOTE Confidence: 0.6474411
+
+d0b42fcb-878f-44c0-969a-84eab209424b
+00:21:18.730 --> 00:21:20.060
+Data mining.
+
+NOTE Confidence: 0.87273514
+
+674ca614-28f0-4900-9782-900860fc2e4b
+00:21:23.290 --> 00:21:27.226
+Is it are you going to deal with
+structured or unstructured data?
+
+NOTE Confidence: 0.8278676
+
+3be2b5a0-4622-4715-8b03-f0f9b636b79c
+00:21:28.920 --> 00:21:30.009
+For data mining.
+
+NOTE Confidence: 0.8397113
+
+175590d7-bf18-4aad-a566-15fbdd33ed2a
+00:21:31.380 --> 00:21:32.070
+Structure.
+
+NOTE Confidence: 0.8638547
+
+0acce048-1dbf-4cbe-8693-679d3b5d4b55
+00:21:34.960 --> 00:21:39.140
+Yes, you have data warehouse.
+Your data warehouse. You have
+
+NOTE Confidence: 0.8638547
+
+589f4aca-4ec2-4498-90e6-3bf4bca18a1b
+00:21:39.140 --> 00:21:43.320
+databases and so is the data
+organized or unorganized. Or
+
+NOTE Confidence: 0.8638547
+
+ad872990-85b5-47d8-8f7e-ed60987863bc
+00:21:43.320 --> 00:21:46.246
+you have structured or is it
+unstructured?
+
+NOTE Confidence: 0.89899844
+
+11e9a41d-5c19-43ba-80e1-d04765601d93
+00:21:51.110 --> 00:21:51.760
+Yes.
+
+NOTE Confidence: 0.7263624
+
+9f49199e-e9c1-4442-b654-e9e78b50057e
+00:21:53.880 --> 00:21:55.760
+Ma'am combination of both.
+
+NOTE Confidence: 0.8173319
+
+97be185c-7aaa-4f15-8c3a-c5c9e569d64c
+00:21:57.150 --> 00:22:02.287
+Um, OK combination of both. OK,
+you can have combination of
+
+NOTE Confidence: 0.8173319
+
+d2d938a4-f7db-48c5-b89c-5f276c708398
+00:22:02.287 --> 00:22:07.424
+both, but usually usually in
+machine learning or you can see
+
+NOTE Confidence: 0.8173319
+
+14272cac-5714-48e0-a231-43dcd3884858
+00:22:07.424 --> 00:22:12.094
+in data mining and it is
+actually structured data. OK,
+
+NOTE Confidence: 0.8173319
+
+215ccf19-1c61-46dd-8dc4-b02ffa269087
+00:22:12.094 --> 00:22:17.698
+you have a you have different
+rows and columns. OK and you
+
+NOTE Confidence: 0.8173319
+
+dce905f4-3a31-4566-a1b6-7340211070ef
+00:22:17.698 --> 00:22:23.302
+process on that. OK so that is
+usually structured data. OK now
+
+NOTE Confidence: 0.8173319
+
+fbbb44af-d5e3-4905-ab4c-edc698677507
+00:22:23.302 --> 00:22:27.038
+when NL when you're considering
+an LP everything.
+
+NOTE Confidence: 0.8806974
+
+c0d6891d-d386-46ab-b9db-8ab28a134275
+00:22:27.300 --> 00:22:29.452
+Or mostly things are
+
+NOTE Confidence: 0.86506534
+
+eb6422bb-2b1e-4364-85bc-867c5ddb4c71
+00:22:29.452 --> 00:22:35.142
+unstructured. OK, so we'll see.
+We'll see them. OK, I hope the
+
+NOTE Confidence: 0.86506534
+
+221187fe-00c6-4acd-a434-4b8ee3f90e41
+00:22:35.142 --> 00:22:38.760
+data or the difference between
+structured and unstructured is
+
+NOTE Confidence: 0.86506534
+
+212c5dca-b0c4-414e-9ee1-e74cc2c8325e
+00:22:38.760 --> 00:22:43.182
+clear. OK, so you have to
+understand the challenge of how
+
+NOTE Confidence: 0.86506534
+
+56944b20-9346-41a6-9ffb-22629bb7b6b9
+00:22:43.182 --> 00:22:47.604
+you can, how you have to process
+these this unstructured data.
+
+NOTE Confidence: 0.9306216
+
+8a0f0dd6-7535-4ed5-82bf-811acea2021f
+00:22:48.950 --> 00:22:49.450
+OK.
+
+NOTE Confidence: 0.8291697
+
+975f3483-d2e6-4148-b272-df81e1388f26
+00:22:50.640 --> 00:22:56.690
+Yes. So moving on, these are
+the different types of data.
+
+NOTE Confidence: 0.8291697
+
+c1173399-ce3b-4442-ac2c-27233046aaec
+00:22:56.690 --> 00:23:00.066
+OK, now I want you to
+categorize newsarticles.
+
+NOTE Confidence: 0.6792489
+
+6fa7fbd7-f49e-4ef7-9d13-b5e04bca7477
+00:23:01.460 --> 00:23:04.730
+Structured or unstructured
+and structured.
+
+NOTE Confidence: 0.86217874
+
+783236df-c856-4687-a4fd-046afe7826c3
+00:23:06.260 --> 00:23:11.705
+Structure OK so you have a
+surveillance camera which
+
+NOTE Confidence: 0.86217874
+
+43deecec-d40e-47ce-9324-a904acc67acb
+00:23:11.705 --> 00:23:13.520
+captures different images.
+
+NOTE Confidence: 0.86176455
+
+11676a35-9a63-431a-b263-ec5e96bcd844
+00:23:14.570 --> 00:23:16.730
+Structured or unstructured.
+
+NOTE Confidence: 0.73719573
+
+e0fa2d92-6d0a-4fc4-bc9e-e1506a38ed77
+00:23:17.810 --> 00:23:18.660
+Unexpected.
+
+NOTE Confidence: 0.5319875
+
+d1194285-56e8-49e3-83c0-406587897c26
+00:23:20.560 --> 00:23:22.270
+OK newsarticle
+
+NOTE Confidence: 0.6091825
+
+2caee757-624c-4b78-9d4c-d83c96d527e1
+00:23:24.120 --> 00:23:24.950
+unstructured.
+
+NOTE Confidence: 0.7513827
+
+58786936-b3f5-478d-bd66-ce83d78bdb35
+00:23:26.060 --> 00:23:27.110
+Unstructured.
+
+NOTE Confidence: 0.85232127
+
+3d61771c-77ec-4d4a-bc50-44dff7844794
+00:23:28.420 --> 00:23:31.820
+OK, we'll come to that
+will come to the audio.
+
+NOTE Confidence: 0.85232127
+
+4b71a32b-51aa-4746-98ee-ccc0a3e6bec8
+00:23:31.820 --> 00:23:33.520
+There is an audio file.
+
+NOTE Confidence: 0.5496721
+
+c82bd8eb-270c-4dfb-a01a-665e65491ce8
+00:23:38.080 --> 00:23:38.630
+Dead Wolf
+
+NOTE Confidence: 0.8470708
+
+bdf5b6d2-c953-4089-ab02-af825e1d7f70
+00:23:40.200 --> 00:23:44.259
+this also unstructured. OK. You
+have a Jason data.
+
+NOTE Confidence: 0.87429756
+
+5807183e-ce4e-4d34-9b63-031a7cc09739
+00:23:45.170 --> 00:23:48.595
+Structured latest
+structure. You have a
+
+NOTE Confidence: 0.87429756
+
+94f656d6-3d9d-413a-bdd4-b04135b4da40
+00:23:48.595 --> 00:23:50.740
+camera or a video
+recording.
+
+NOTE Confidence: 0.68897074
+
+20fd0892-422c-4abb-9216-7c8c2bd866e7
+00:23:52.990 --> 00:23:53.800
+Jet set.
+
+NOTE Confidence: 0.8192378
+
+512a35c7-280c-4080-a89d-7e682dea825b
+00:23:55.810 --> 00:24:00.886
+Video recording video recording
+is unstructured. OK, yes, what
+
+NOTE Confidence: 0.8192378
+
+56703dac-6695-4bf3-b6c9-9dd92dfc0264
+00:24:00.886 --> 00:24:03.142
+you have some matrixes.
+
+NOTE Confidence: 0.8061835
+
+fede368c-c6cd-4391-abd5-7026cb85a19d
+00:24:04.420 --> 00:24:11.110
+Structure structure OK then OK,
+web page. I'm not telling
+
+NOTE Confidence: 0.8061835
+
+d99ba4ca-b2a3-4580-926d-c53112315316
+00:24:11.110 --> 00:24:14.455
+about the content of webpage.
+
+NOTE Confidence: 0.7951671
+
+1c2111b3-7937-4317-90f3-8bbf21203e0e
+00:24:18.150 --> 00:24:18.930
+Structure.
+
+NOTE Confidence: 0.8262803
+
+10393b9d-13a6-430b-b9e2-1458e1181e77
+00:24:20.310 --> 00:24:24.985
+The page is structured, but the
+contents inside it may be
+
+NOTE Confidence: 0.8262803
+
+cf2faf93-3433-4c84-9b56-ff46be11a595
+00:24:24.985 --> 00:24:29.235
+unstructured. OK, so because
+every HTML page starts with HTML
+
+NOTE Confidence: 0.8262803
+
+5f45acd6-acd4-4278-816d-5a63f2db91f4
+00:24:29.235 --> 00:24:33.910
+and there are different things,
+different tags OK where you can
+
+NOTE Confidence: 0.8262803
+
+2c8e93f2-b7d8-4b1a-b609-43915e9afd45
+00:24:33.910 --> 00:24:37.735
+add contents OK, what about the
+social media contents?
+
+NOTE Confidence: 0.8302983
+
+b6a261cc-bc2c-4d49-ad5f-87d2b4dad81c
+00:24:42.210 --> 00:24:44.078
+They run structural structure.
+
+NOTE Confidence: 0.8382763
+
+3b32c058-32a8-48d5-aa95-20532ae82829
+00:24:44.790 --> 00:24:49.962
+OK, so if you look on an
+overall overview basis, it is
+
+NOTE Confidence: 0.8382763
+
+30330993-9987-4167-b2ed-f4d7f4914b8a
+00:24:49.962 --> 00:24:54.272
+structured you can say, but
+actually the content there is
+
+NOTE Confidence: 0.8382763
+
+cc5af22a-71d4-4a0f-a129-0eb137eceff8
+00:24:54.272 --> 00:24:58.151
+unstructured is it depends on
+it is actually debateable.
+
+NOTE Confidence: 0.8556904
+
+e03a1345-443d-4611-9757-88a8193bcac0
+00:24:59.800 --> 00:25:04.744
+Like if you have data that is
+stored in an organized way,
+
+NOTE Confidence: 0.8556904
+
+0d097ae0-6acc-4a1a-94b1-efa41324d327
+00:25:04.744 --> 00:25:08.452
+but the data itself is
+unstructured means it is
+
+NOTE Confidence: 0.8556904
+
+f7dc3844-52b5-41eb-bfac-3293d282c9f7
+00:25:08.452 --> 00:25:12.160
+unstructured only. OK, as
+example here you have the
+
+NOTE Confidence: 0.8556904
+
+560e09d1-2f53-4141-82d2-7ad294c30cb8
+00:25:12.160 --> 00:25:15.456
+organization is very
+structured but here all the
+
+NOTE Confidence: 0.8556904
+
+993dd543-20bd-4bde-a8d0-4510dfe4cf21
+00:25:15.456 --> 00:25:17.104
+contents may be unstructured.
+
+NOTE Confidence: 0.84242547
+
+b7a54761-a247-4ba0-a2bc-d3b584b88609
+00:25:18.370 --> 00:25:23.375
+Yes, so so we know that data
+there are two categories on the
+
+NOTE Confidence: 0.84242547
+
+944efd00-edc3-4248-be98-a3fafdca9466
+00:25:23.375 --> 00:25:27.225
+structured and the other is
+unstructured. OK, an NLP has
+
+NOTE Confidence: 0.84242547
+
+57fed2e3-f761-459a-ad2d-19d06fb29e12
+00:25:27.225 --> 00:25:31.845
+most of the data that is just
+part of the unstructured domain.
+
+NOTE Confidence: 0.8536751
+
+a21e222d-97bc-422c-b189-57fca489169d
+00:25:33.930 --> 00:25:37.971
+Yes, now if you see the
+explosion of different
+
+NOTE Confidence: 0.8536751
+
+05e28fb1-647e-47a9-8f7a-2e016e88bcf4
+00:25:37.971 --> 00:25:43.359
+categories of data, you find
+that most of the data that is
+
+NOTE Confidence: 0.8536751
+
+ef692f13-e256-48cd-a8b7-0b6f082653c9
+00:25:43.359 --> 00:25:47.849
+there on the Internet or it's
+mostly the unstructured data.
+
+NOTE Confidence: 0.8536751
+
+c639ef4e-2a5a-4715-b41b-6471d1f47c9b
+00:25:47.849 --> 00:25:53.237
+OK, as far as the structured
+data is concerned. OK so I'm
+
+NOTE Confidence: 0.8536751
+
+465addd0-312d-478f-a24e-18ca2688f904
+00:25:53.237 --> 00:25:55.931
+just making you the
+importance of.
+
+NOTE Confidence: 0.78522366
+
+38251531-3d7e-46c1-ac2c-13f3eac6872f
+00:25:56.950 --> 00:26:02.290
+Processing of natural language.
+OK yes, OK. Now in MLB. Now you
+
+NOTE Confidence: 0.78522366
+
+09458cc5-c330-4fff-a940-d6c2ced5c313
+00:26:02.290 --> 00:26:07.185
+have seen the two categories
+which is the structure and the
+
+NOTE Confidence: 0.78522366
+
+6ce2f210-a068-4689-8794-f198bc1421f6
+00:26:07.185 --> 00:26:11.190
+unstructured data. OK, an MLB
+has mostly unstructured section
+
+NOTE Confidence: 0.87414783
+
+49ed1192-da8b-4b97-ae66-60ed7ebf7372
+00:26:11.190 --> 00:26:17.630
+of it. OK, now now there are
+two ways in which the data
+
+NOTE Confidence: 0.87414783
+
+9064275e-7848-44ba-92f0-f06ed87f6e3a
+00:26:17.630 --> 00:26:21.930
+in an LP's represented
+either in the text format or
+
+NOTE Confidence: 0.87414783
+
+025a054a-8b67-4918-86ee-144a8af7ada0
+00:26:21.930 --> 00:26:26.230
+in the speech format. So you
+have actually a different.
+
+NOTE Confidence: 0.8264792
+
+6f747af4-9518-4aa5-8dc1-66494c18bd7c
+00:26:27.870 --> 00:26:33.007
+Unit or different course you can
+say on speech processing or
+
+NOTE Confidence: 0.8264792
+
+0655eee8-e144-4c96-96e1-94d7e4d41e25
+00:26:33.007 --> 00:26:37.210
+audio processing, but our course
+actually deals with the.
+
+NOTE Confidence: 0.8074529
+
+718a4799-04fe-4584-b46a-c1da477efb4d
+00:26:37.940 --> 00:26:39.668
+Text data only OK.
+
+NOTE Confidence: 0.8463982
+
+89b0a576-a638-4c31-9fd7-1eb0a4c8a7d2
+00:26:40.230 --> 00:26:43.268
+So from the data
+unstructured and from
+
+NOTE Confidence: 0.8463982
+
+1ac568c3-cc0c-411c-a864-b3c46ef5412a
+00:26:43.268 --> 00:26:46.306
+unstructured we're only
+focusing on the textual
+
+NOTE Confidence: 0.8463982
+
+17af1aae-e149-4679-a192-4496896e3912
+00:26:46.306 --> 00:26:50.646
+data. OK, so text analysis
+and processing is what we
+
+NOTE Confidence: 0.8463982
+
+42cc6eab-a93b-45b6-ad47-20c2dab9300b
+00:26:50.646 --> 00:26:55.854
+are dealing in this course.
+So NLP is a very very very
+
+NOTE Confidence: 0.8463982
+
+fcfc8efe-c290-4426-b878-d13dfadae526
+00:26:55.854 --> 00:27:00.194
+vast topic. OK, and there
+are lot of things emerging.
+
+NOTE Confidence: 0.8463982
+
+0748d4c0-bf35-487f-b4e1-13e7182c0cb8
+00:27:00.194 --> 00:27:02.798
+There are a lot of things.
+
+NOTE Confidence: 0.89005363
+
+b8e8f3b9-a665-4b46-b96e-e88eda4c5593
+00:27:04.250 --> 00:27:08.330
+In it, so most of the things we
+will not be able to cover all
+
+NOTE Confidence: 0.89005363
+
+097fde51-45d1-446c-8c41-4b9230d9aa14
+00:27:08.330 --> 00:27:11.866
+the things, but actually you get
+an idea of. OK, so if you're
+
+NOTE Confidence: 0.89005363
+
+7d49cd79-e7d0-4027-ad00-2902a847e1b2
+00:27:11.866 --> 00:27:13.498
+into research or if you're into.
+
+NOTE Confidence: 0.78386915
+
+c36bd6f9-615b-430e-97fa-c83eef9cc0fc
+00:27:15.210 --> 00:27:20.646
+Any companies which demand this,
+there is where you will be using
+
+NOTE Confidence: 0.60328466
+
+f14470fc-c98b-420c-881e-551f9d9bc523
+00:27:20.646 --> 00:27:23.778
+NLP. OK, yes, so data.
+
+NOTE Confidence: 0.85936123
+
+c5f07b87-a66b-416a-adda-b564248e03ba
+00:27:25.500 --> 00:27:29.669
+Now we'll see what are the
+different tasks, which are there
+
+NOTE Confidence: 0.85936123
+
+3bc39660-e411-448c-b783-cf52ef572ec2
+00:27:29.669 --> 00:27:34.975
+in an empty. OK, so we know NLP
+is a field in computer science.
+
+NOTE Confidence: 0.85936123
+
+92cb604b-838f-4d95-a57a-afd6bfbf703d
+00:27:34.975 --> 00:27:38.386
+OK, where you build algorithms
+OK, which will either.
+
+NOTE Confidence: 0.83951503
+
+c76c7309-7398-43ea-a1c8-2b233b39a27b
+00:27:40.400 --> 00:27:44.279
+Understand. OK, so I'm actually
+telling you NLP now.
+
+NOTE Confidence: 0.8909351
+
+8fbef6bc-98a8-4575-9fd7-e98726f217b5
+00:27:45.270 --> 00:27:49.302
+Has two things which is
+natural language
+
+NOTE Confidence: 0.8909351
+
+770df35e-de2c-4dc6-8252-6afa4a4be29f
+00:27:49.302 --> 00:27:53.334
+understanding and natural
+language generation. OK, so
+
+NOTE Confidence: 0.8909351
+
+b3f36a7f-7eb3-4b23-8420-b16577fa777e
+00:27:53.334 --> 00:27:57.366
+you will actually write
+algorithms which will
+
+NOTE Confidence: 0.8909351
+
+b77d3274-9def-4304-b5cd-bd6759688abf
+00:27:57.366 --> 00:28:01.398
+understand the natural
+language. Analyze them or.
+
+NOTE Confidence: 0.89402163
+
+e3488c33-1021-4c8e-af01-0b779e6fd853
+00:28:02.570 --> 00:28:07.349
+You will write algorithms which
+will generate natural languages.
+
+NOTE Confidence: 0.89402163
+
+86c797ea-99e3-4346-b74d-82fc95e8d7a2
+00:28:07.349 --> 00:28:10.004
+Now I want you to.
+
+NOTE Confidence: 0.8330225
+
+a6c53003-0e79-4289-a028-357639183ab6
+00:28:11.050 --> 00:28:14.543
+Telling a given application
+where natural language
+
+NOTE Confidence: 0.8330225
+
+490eb382-1a1b-425b-9719-0b6f0d2734aa
+00:28:14.543 --> 00:28:16.040
+understanding is used.
+
+NOTE Confidence: 0.8828287
+
+0d4f02d9-999b-403a-b6e9-333911709f0f
+00:28:18.820 --> 00:28:23.490
+OK, I I simplified OK so you
+have the translator.
+
+NOTE Confidence: 0.86593723
+
+4389caca-b8d3-476a-913e-579e538825f1
+00:28:25.750 --> 00:28:30.953
+OK so translator you have the
+input data OK and some
+
+NOTE Confidence: 0.86593723
+
+b75a6a47-5eba-44d6-8c73-140d31dd772c
+00:28:30.953 --> 00:28:36.629
+processing is done at the Google
+server end and you get the
+
+NOTE Confidence: 0.86593723
+
+40dee2ea-3f56-481f-8044-48c6c2e04fcc
+00:28:36.629 --> 00:28:38.048
+output data OK.
+
+NOTE Confidence: 0.8500166
+
+7fc28fc4-ead3-4109-9342-21f713eba56a
+00:28:39.060 --> 00:28:44.008
+No. Where is the language
+understanding done and
+
+NOTE Confidence: 0.8500166
+
+50546d28-696d-40df-aa91-44c5080e6cb3
+00:28:44.008 --> 00:28:45.036
+variously generation?
+
+NOTE Confidence: 0.9339816
+
+d9ab8d6b-c846-4ff7-9715-6882e44b560f
+00:28:47.340 --> 00:28:49.265
+I want you to think on this.
+
+NOTE Confidence: 0.6979823
+
+2e678b14-deb8-443d-a2fa-8bb9cc333215
+00:28:54.890 --> 00:28:58.726
+OK, suppose you input
+English OK, suppose.
+
+NOTE Confidence: 0.63472235
+
+ce01d844-1e65-4b06-b321-b51e0821c615
+00:28:59.990 --> 00:29:01.298
+I, uh, OK.
+
+NOTE Confidence: 0.5941248
+
+f048f5db-7f9d-464c-b04f-0769c50d733d
+00:29:02.650 --> 00:29:03.520
+Suppose.
+
+NOTE Confidence: 0.86142474
+
+1b553596-7494-4e53-a77a-8d731392fa0b
+00:29:06.000 --> 00:29:11.604
+I think so. This is actually
+processed here. OK, now is it
+
+NOTE Confidence: 0.86142474
+
+b4929b57-07bc-49b9-8add-f3be03ebd19d
+00:29:11.604 --> 00:29:14.406
+understanding or generation
+natural language understanding
+
+NOTE Confidence: 0.86142474
+
+ec13bda3-137e-4834-b88b-0785a2044061
+00:29:14.406 --> 00:29:15.807
+or generation system?
+
+NOTE Confidence: 0.586329
+
+c2eeddc2-809c-43de-a883-9281d11d4482
+00:29:20.790 --> 00:29:22.160
+Yes ha.
+
+NOTE Confidence: 0.8623421
+
+256baead-da6d-47b5-ada8-4491b09bac09
+00:29:23.360 --> 00:29:27.620
+Natural language is understood.
+Yes it is understood. It is
+
+NOTE Confidence: 0.8623421
+
+36e62cf4-9c63-4a98-baba-3c6d0fd2a9bb
+00:29:27.620 --> 00:29:30.176
+understood. Understanding so
+natural language understanding
+
+NOTE Confidence: 0.8623421
+
+b175daa6-e2e5-4379-a4d2-c124266c11cd
+00:29:30.176 --> 00:29:34.862
+and some kind of analysis is
+done an at this end.
+
+NOTE Confidence: 0.85536295
+
+9d10b5c0-84cc-4a63-9ae6-226f914a8e14
+00:29:37.320 --> 00:29:41.472
+It is natural language
+generation. OK, so natural
+
+NOTE Confidence: 0.85536295
+
+cc596649-6046-45c5-b4eb-5711f5627813
+00:29:41.472 --> 00:29:45.105
+language understanding is
+actually analyzing the language
+
+NOTE Confidence: 0.85536295
+
+00a59e91-ac79-4cf3-a9a6-ff84bd08bf8d
+00:29:45.105 --> 00:29:51.852
+as input. OK, the input language
+or input text is analyzed OK or
+
+NOTE Confidence: 0.85536295
+
+0f9761f6-0b40-46dc-8cf3-9b4cb4d634e0
+00:29:51.852 --> 00:29:56.523
+does understood. That is natural
+language understanding. Then you
+
+NOTE Confidence: 0.85536295
+
+caf65d7f-19f7-4346-9343-adcca0d48a79
+00:29:56.523 --> 00:30:00.156
+have natural language
+generation, in which the.
+
+NOTE Confidence: 0.90258056
+
+bcd47e5c-467d-4ab0-a035-5fd026976d24
+00:30:00.250 --> 00:30:02.238
+Natural language is generated.
+
+NOTE Confidence: 0.863341
+
+21220dd8-c1e2-489f-8431-3a582287a10e
+00:30:02.820 --> 00:30:07.872
+OK, so so when you're dealing
+with the NLP, either you will
+
+NOTE Confidence: 0.863341
+
+c2a88cf3-5817-4a89-a58e-45b35c4995d5
+00:30:07.872 --> 00:30:13.345
+be in the first stage. Either
+you will be, it is all these
+
+NOTE Confidence: 0.863341
+
+9b6027d1-c310-46a0-9385-02b3ff823979
+00:30:13.345 --> 00:30:17.555
+are application dependent. OK
+so if you if you're taking
+
+NOTE Confidence: 0.863341
+
+9586a336-1845-4fdc-9af2-30b982d63614
+00:30:17.555 --> 00:30:20.923
+translation system, if you're
+taking translation system, you
+
+NOTE Confidence: 0.863341
+
+ac35bb4a-35ab-43d1-835d-d42823c3b1ba
+00:30:20.923 --> 00:30:25.554
+will be actually having both
+the things you have ended in
+
+NOTE Confidence: 0.863341
+
+20c74474-2f6f-4ede-9268-e416a44464c2
+00:30:25.554 --> 00:30:28.080
+natural language
+understanding. Also you have
+
+NOTE Confidence: 0.863341
+
+f9acfea7-deef-468a-adbb-b0ad659c6333
+00:30:28.080 --> 00:30:29.764
+natural language generation
+now.
+
+NOTE Confidence: 0.8455412
+
+6e15e5cb-3a78-4f56-8461-9c1737d0065d
+00:30:31.140 --> 00:30:35.610
+One more thing. For example, if
+you what about spam?
+
+NOTE Confidence: 0.66754305
+
+f9285b0a-2fc6-47de-9ffb-fcc20bf4ce4b
+00:30:37.050 --> 00:30:37.900
+Spam.
+
+NOTE Confidence: 0.66249
+
+4542b241-e795-4bc7-ae14-d58a64311116
+00:30:39.090 --> 00:30:40.020
+Spam me.
+
+NOTE Confidence: 0.80345696
+
+05a035a9-a415-4c0c-aee7-53d24f72de75
+00:30:41.510 --> 00:30:46.082
+OK, is it natural? Is the you do
+you apply natural language
+
+NOTE Confidence: 0.80345696
+
+02c94a0e-0f5c-4be0-a3ab-720bfbe5a11d
+00:30:46.082 --> 00:30:47.225
+understanding or natural
+
+NOTE Confidence: 0.92259383
+
+3bfe0c2e-c1ac-4ec0-83c1-d5dac7c57f04
+00:30:47.225 --> 00:30:47.987
+language generation?
+
+NOTE Confidence: 0.8529808
+
+a84ee4b2-b161-4000-b11b-0a8b11e38877
+00:30:48.950 --> 00:30:53.312
+Understanding. Understand, so
+each and every application. So
+
+NOTE Confidence: 0.8529808
+
+f24f49d2-e729-4210-929c-c19a4f2946ee
+00:30:53.312 --> 00:30:58.304
+I'll give you a few tasks
+after this session so you have
+
+NOTE Confidence: 0.8529808
+
+59af07f3-f9c7-4c33-b3c3-47faf1c913f8
+00:30:58.304 --> 00:31:01.632
+to understand whether natural
+languages and like analyzed
+
+NOTE Confidence: 0.8529808
+
+1f316533-6529-416c-a649-80a5afec3e33
+00:31:01.632 --> 00:31:06.208
+OK, or is the natural language
+generated, so most of the
+
+NOTE Confidence: 0.8529808
+
+4d3bd11c-ccb4-4bab-b0d3-1286f0559b18
+00:31:06.208 --> 00:31:10.784
+things will be doing with the
+text analytics only, but you
+
+NOTE Confidence: 0.8529808
+
+6598c4a9-9a77-47f8-a525-ce66247da814
+00:31:10.784 --> 00:31:13.696
+can have natural language
+generation also OK.
+
+NOTE Confidence: 0.8640511
+
+f26f92ac-7c31-4791-a4ba-25d8870a54ff
+00:31:15.000 --> 00:31:19.077
+Yes, so these are the tasks,
+natural language understanding
+
+NOTE Confidence: 0.8640511
+
+ea39fb15-0e9f-4e57-905e-96bc1dbb9e9b
+00:31:19.077 --> 00:31:20.889
+and natural language generation.
+
+NOTE Confidence: 0.8709243
+
+dc833d6b-2494-4ca8-958d-917f3aead497
+00:31:21.840 --> 00:31:27.755
+OK, yes, so this is the same
+thing which we had discussed. So
+
+NOTE Confidence: 0.8709243
+
+943c27b0-2576-4964-a923-68bf71b0d00e
+00:31:27.755 --> 00:31:32.305
+natural language, the language
+input. OK, that input data or
+
+NOTE Confidence: 0.8709243
+
+23ef9c98-45f8-41d3-9586-e965f3339afb
+00:31:32.305 --> 00:31:36.855
+the language is actually
+understood. Or it is we are
+
+NOTE Confidence: 0.8709243
+
+82f6822c-8c78-4345-aabf-a6c55eb1e1d8
+00:31:36.855 --> 00:31:40.950
+trying to under we write
+algorithms in which we
+
+NOTE Confidence: 0.8709243
+
+0b9ae6c2-6ff9-4e05-9dfc-8219d1d1b82c
+00:31:40.950 --> 00:31:45.045
+understand the language. OK, so
+automatic speech recognition is
+
+NOTE Confidence: 0.8709243
+
+8226689e-fba7-41f7-8a42-cd07a5997763
+00:31:45.045 --> 00:31:49.140
+also like part of natural
+language understanding. Then you
+
+NOTE Confidence: 0.8709243
+
+fbaff9f7-1e44-4450-be2b-0e8cb30e09e2
+00:31:49.140 --> 00:31:50.960
+have natural language generation
+
+NOTE Confidence: 0.68158114
+
+8558524b-92d8-4c8a-b842-4bd3f641c615
+00:31:50.960 --> 00:31:57.047
+in which. Language is generated
+OK. So yes, generating you have
+
+NOTE Confidence: 0.68158114
+
+72aa46ed-e912-49b7-b86a-fddd2c1a94ca
+00:31:57.047 --> 00:32:03.563
+the dialogue systems and all all
+apply both NLP NLU and NLG.
+
+NOTE Confidence: 0.3096885
+
+c80c9342-553c-4af2-844f-5c5c17762b88
+00:32:05.100 --> 00:32:06.900
+K yes.
+
+NOTE Confidence: 0.8246883
+
+fbfad999-31ba-4d2a-b45b-b6febeaa1606
+00:32:08.320 --> 00:32:15.265
+OK, so when you are OK now we
+have seen about NLP. OK so NLP,
+
+NOTE Confidence: 0.8246883
+
+3e7c3bce-1087-4b0e-8703-3eb67c657151
+00:32:15.265 --> 00:32:20.358
+categorisation, data processing.
+OK now we the main part is the
+
+NOTE Confidence: 0.8246883
+
+a9060195-a0c1-4ab5-a499-c80377199d33
+00:32:20.358 --> 00:32:24.988
+language. OK the language is the
+important part. Now the
+
+NOTE Confidence: 0.8246883
+
+a06c9853-e738-4efe-939d-b5786ab7e828
+00:32:24.988 --> 00:32:29.155
+scientific study of languages.
+What is linguistics? OK so
+
+NOTE Confidence: 0.8246883
+
+c6a39e07-2d00-4378-ba83-a3cb75bd76ce
+00:32:29.155 --> 00:32:34.711
+either you will be dealing with
+we have a detailed session on
+
+NOTE Confidence: 0.8246883
+
+6613e3c8-4d22-43f7-9379-a5f8d625bd95
+00:32:34.711 --> 00:32:38.878
+computational linguistics. One
+our session will be there on
+
+NOTE Confidence: 0.8246883
+
+a5fec2dd-8563-42c6-a3db-21a0f24567af
+00:32:38.878 --> 00:32:40.730
+competition in this day.
+
+NOTE Confidence: 0.8436756
+
+541fa847-8a58-4479-a2e6-8e8cc6b81c51
+00:32:40.950 --> 00:32:44.940
+But this is only an introduction
+course introduction session this
+
+NOTE Confidence: 0.8436756
+
+59ad8c5c-ec6d-4b86-9283-b82e4f54d691
+00:32:44.940 --> 00:32:48.930
+week. OK, now in computational
+linguistics, you have all these
+
+NOTE Confidence: 0.8436756
+
+496798af-3134-4866-9779-1cb4d90241e9
+00:32:48.930 --> 00:32:52.521
+major things, which is the
+phonetics and phonology which
+
+NOTE Confidence: 0.8436756
+
+6c155f8b-f60c-4bb0-9146-9fb1a3f35753
+00:32:52.521 --> 00:32:56.910
+deals with sound. OK, so if
+you're writing some kind of
+
+NOTE Confidence: 0.8436756
+
+6c275b47-4bd2-46ac-9506-b14422fa2699
+00:32:56.910 --> 00:33:00.501
+speech recognition or speech
+generation, OK, like the voice
+
+NOTE Confidence: 0.8436756
+
+dcc7e8f6-3b8d-4873-8543-88f41e84b0a0
+00:33:00.501 --> 00:33:05.289
+is generated and all you have to
+go for phonetics and phonology.
+
+NOTE Confidence: 0.8436756
+
+49419712-1339-4e54-9257-08922789b34f
+00:33:05.289 --> 00:33:09.279
+OK, so that is about sound
+generation, and dealing with
+
+NOTE Confidence: 0.9129137
+
+e66a452f-db25-45c8-9f23-95e3f0ddb655
+00:33:09.279 --> 00:33:11.310
+sounds. And.
+
+NOTE Confidence: 0.8359219
+
+51a53d4b-93b7-4639-a19a-d6a903193882
+00:33:12.970 --> 00:33:18.046
+OK, for example, in very very
+the Malayalam are which we write
+
+NOTE Confidence: 0.8359219
+
+a54781b3-7588-4cc2-8b9a-becf09f32aaa
+00:33:18.046 --> 00:33:23.545
+OK. So the sound that is
+generated by R and all OK. So
+
+NOTE Confidence: 0.8359219
+
+cca609dc-1333-43a2-842f-5a756cd3cd60
+00:33:23.545 --> 00:33:29.044
+all these things are related to
+energy only but it is more when
+
+NOTE Confidence: 0.8359219
+
+1693304d-c03b-4e68-a135-3ab7bd164a60
+00:33:29.044 --> 00:33:33.274
+you drill down. This is actually
+dealing with the sound.
+
+NOTE Confidence: 0.8349244
+
+bda50e55-69d9-4390-a92c-02e7a14eafd9
+00:33:33.900 --> 00:33:40.511
+OK, so that is the phonetics
+and phonology, and you have
+
+NOTE Confidence: 0.8349244
+
+75fba516-e581-4fed-a205-b8497fab8969
+00:33:40.511 --> 00:33:44.718
+morphology which is
+identifying the components in
+
+NOTE Confidence: 0.8349244
+
+8053b316-d8af-47e3-b53e-24e22a2c8b11
+00:33:44.718 --> 00:33:50.728
+a word. OK, so for example,
+you have, say, books.
+
+NOTE Confidence: 0.8211572
+
+14c8fc45-81ca-47f5-a635-4bb718b2fd6d
+00:33:51.790 --> 00:33:57.499
+OK, so books is generated
+because it is book plus S.
+
+NOTE Confidence: 0.8221181
+
+856975ef-679f-46aa-bfec-0c2c38fdc12d
+00:33:58.070 --> 00:34:02.867
+OK, so all these things is part
+of morphology. OK, we'll have a
+
+NOTE Confidence: 0.8221181
+
+1faff307-62de-4698-86a1-a16f45645de1
+00:34:02.867 --> 00:34:05.081
+detailed session on
+computational linguistics. Then
+
+NOTE Confidence: 0.8221181
+
+d5b91af7-a52e-45e5-b849-a3d0b85aa7f3
+00:34:05.081 --> 00:34:09.509
+you have syntax syntax deals
+with the like whether it is so
+
+NOTE Confidence: 0.8221181
+
+0ab73095-2339-49e9-be5d-64aab2ec45dc
+00:34:09.509 --> 00:34:15.044
+you can see the verb or noun OK
+if you have to, suppose you have
+
+NOTE Confidence: 0.8221181
+
+dbe0702e-49dc-4879-adfe-c76e15440210
+00:34:15.044 --> 00:34:20.210
+a sentence is given OK and you
+have to like find whether it is
+
+NOTE Confidence: 0.8221181
+
+f35adc59-9873-4103-93fb-527675bb2502
+00:34:20.210 --> 00:34:25.745
+a verb or a noun. OK, and you
+have to build a parse tree. And
+
+NOTE Confidence: 0.8221181
+
+6a448c96-6f9d-4ad3-9093-ca732694ba4e
+00:34:25.745 --> 00:34:29.804
+OK, we learn all these things.
+So that is about syntax.
+
+NOTE Confidence: 0.8265872
+
+99bd855f-ac73-4303-96e2-971b53098e1e
+00:34:30.400 --> 00:34:36.832
+Ann semantics is related to the
+meaning of the words. OK, so.
+
+NOTE Confidence: 0.85741615
+
+b4243d88-a4a7-48dc-9001-29f26b1c6ae5
+00:34:38.530 --> 00:34:40.966
+OK, we'll take the same example
+
+NOTE Confidence: 0.77612996
+
+40a8b366-aa9a-4331-9669-4c211f119eda
+00:34:40.966 --> 00:34:46.664
+book, OK? So book has many
+meanings. OK, Oneness, the book
+
+NOTE Confidence: 0.77612996
+
+9dd7b179-049b-485f-b41d-6768f4f08f68
+00:34:46.664 --> 00:34:52.852
+which I'm holding in my hand.
+OK, book me the ticket or book
+
+NOTE Confidence: 0.77612996
+
+9fd2723c-4fb7-4458-b440-b096b3af6a2c
+00:34:52.852 --> 00:34:59.040
+me we item from the online shop
+or something like that. So that
+
+NOTE Confidence: 0.77612996
+
+c7d31a81-33bc-4a8a-9d97-7ae54a376069
+00:34:59.040 --> 00:35:04.752
+book is different. OK so all
+these things, the meaning of the
+
+NOTE Confidence: 0.77612996
+
+3410ed63-7607-4d0f-a270-b9a82b8dc21f
+00:35:04.752 --> 00:35:09.512
+word sistant by the semantics
+section of linguistics. Then you
+
+NOTE Confidence: 0.77612996
+
+1727a156-2fa6-40eb-8a50-4b1001bc50b0
+00:35:09.512 --> 00:35:11.892
+have pragmatics which deals with
+
+NOTE Confidence: 0.8512267
+
+f53f38a1-48c8-406d-b8b5-95947cb988fe
+00:35:11.892 --> 00:35:17.180
+the. So these two are mainly
+dealing with the dialogues. OK,
+
+NOTE Confidence: 0.8512267
+
+43bf49a2-b836-48c2-a9fe-3a9792d3985b
+00:35:17.180 --> 00:35:21.778
+so this is mainly deals. So
+actually if you take this.
+
+NOTE Confidence: 0.8644472
+
+4b0e8a0b-2631-4df9-90d5-443bc9a81c14
+00:35:23.250 --> 00:35:27.852
+This set is smaller. This is
+much more bigger. OK, so here it
+
+NOTE Confidence: 0.8644472
+
+c5505bc9-a051-4c4c-aacf-a56e7714666e
+00:35:27.852 --> 00:35:31.038
+deals with one word, an
+especially the sounds. This
+
+NOTE Confidence: 0.8644472
+
+b01bcc51-9a04-402e-b59e-a91f26172156
+00:35:31.038 --> 00:35:35.640
+deals with also one word, but it
+deals with the components of the
+
+NOTE Confidence: 0.8644472
+
+7d5f81a9-ed45-4f1f-9ec4-8f0aeba0b885
+00:35:35.640 --> 00:35:39.180
+words syntax means it deals with
+the whole sentence. Semantics
+
+NOTE Confidence: 0.8644472
+
+ee66bf66-afc5-4f99-b52d-f77874b0d06c
+00:35:39.180 --> 00:35:43.074
+means the meaning of the words
+together with the sentences and
+
+NOTE Confidence: 0.8644472
+
+b466bd56-26d9-4652-8f99-6243b3c45768
+00:35:43.074 --> 00:35:45.906
+pragmatics and discourse is
+actually dealt with the
+
+NOTE Confidence: 0.8644472
+
+d13cc9a0-6596-4b1a-92bd-df0ea20a2cdd
+00:35:45.906 --> 00:35:49.800
+dialogue. OK, so don't worry if
+you have not understood. But
+
+NOTE Confidence: 0.8644472
+
+639e8d40-6bc2-4a1e-98e4-b597597a40cf
+00:35:49.800 --> 00:35:53.694
+please I'm just going through
+the terms which are there in.
+
+NOTE Confidence: 0.8258082
+
+1bdd7a6a-8620-44e5-9675-fea22ec9601b
+00:35:54.030 --> 00:35:58.380
+As a linguistics part. OK,
+so in natural language and
+
+NOTE Confidence: 0.8258082
+
+54bd6d06-8401-41cc-b086-fbd6b5655b0f
+00:35:58.380 --> 00:36:02.730
+you're dealing with NLP. OK,
+so the science behind the
+
+NOTE Confidence: 0.8258082
+
+2dcd3e28-0089-408b-915a-98c013683b98
+00:36:02.730 --> 00:36:06.210
+language is dealt by the
+computational linguistics or
+
+NOTE Confidence: 0.8258082
+
+6577ea18-1d9e-4098-8f74-33b3c4e15658
+00:36:06.210 --> 00:36:07.950
+mainly the linguistics part.
+
+NOTE Confidence: 0.92547154
+
+6b4bae33-424b-4d33-ac8d-be2fad4355a7
+00:36:09.020 --> 00:36:09.540
+OK.
+
+NOTE Confidence: 0.83849406
+
+1af9b030-7c5b-41b2-a064-6a869096d932
+00:36:11.620 --> 00:36:18.580
+So now we have learned the
+linguistics and we know what is
+
+NOTE Confidence: 0.83849406
+
+f2140047-3b33-47dc-a920-fc44e451e250
+00:36:18.580 --> 00:36:25.540
+data. We have seen the science
+behind the language. OK now next
+
+NOTE Confidence: 0.83849406
+
+d546f6b5-9006-40cc-ad81-4b0a6c534209
+00:36:25.540 --> 00:36:27.860
+is how can you?
+
+NOTE Confidence: 0.7832306
+
+a6d9b495-4928-495e-9fad-a9bad85849da
+00:36:29.310 --> 00:36:30.590
+Capture this.
+
+NOTE Confidence: 0.81810606
+
+87871ff2-293b-4210-9a7f-790b291f31be
+00:36:31.780 --> 00:36:36.640
+The science behind the language.
+OK, oh. How can you process it?
+
+NOTE Confidence: 0.81810606
+
+890b9f80-3a22-4e03-b307-43f141bbd313
+00:36:36.640 --> 00:36:41.500
+OK, so there are two approaches.
+One is the rule based approach
+
+NOTE Confidence: 0.81810606
+
+6bcd4c75-9959-4573-b044-1b134450a7b5
+00:36:41.500 --> 00:36:45.955
+and you call them as the NLP
+approaches. Either you apply
+
+NOTE Confidence: 0.81810606
+
+e0a3dd9b-c71c-4d5b-b285-99875c03e956
+00:36:45.955 --> 00:36:50.005
+rule based approach or you go
+for statistical approach. There
+
+NOTE Confidence: 0.81810606
+
+3ce6c191-6019-467f-8113-2865818c1cda
+00:36:50.005 --> 00:36:54.055
+are two approaches if you're
+dealing with the NLP processing.
+
+NOTE Confidence: 0.81810606
+
+c9b761dd-0e73-4562-9dd1-6ab3797966e4
+00:36:54.055 --> 00:36:58.105
+OK, so informal approaches. You
+apply the mathematical model or
+
+NOTE Confidence: 0.81810606
+
+beb2478e-296f-4682-b45f-f493d7842be1
+00:36:58.105 --> 00:37:02.560
+you write rules for this. OK,
+suppose you're saying that OK.
+
+NOTE Confidence: 0.8406529
+
+a1289880-7639-49be-b492-144facdf19a5
+00:37:02.650 --> 00:37:06.742
+If S is found in the end
+of the OK so.
+
+NOTE Confidence: 0.8361549
+
+8c5cea02-b92b-4296-92ae-6ae94eae51d1
+00:37:08.070 --> 00:37:12.815
+So books is there, you are
+saying if it ends with S, that
+
+NOTE Confidence: 0.8361549
+
+b58d5e9f-6109-4c45-8767-0bc858e4de0d
+00:37:12.815 --> 00:37:17.195
+means mostly the things are
+plural. OK, I'm just saying in a
+
+NOTE Confidence: 0.8361549
+
+78d2e2c7-c29f-443e-b8a8-cd97cc8818c4
+00:37:17.195 --> 00:37:21.575
+gentle way. OK, but things will
+be different when you apply this
+
+NOTE Confidence: 0.8361549
+
+c60f92bb-e3ac-405f-b933-1b8f3230d002
+00:37:21.575 --> 00:37:25.955
+in your applications. So ending
+with S OK. Usually you tell that
+
+NOTE Confidence: 0.8361549
+
+572b6138-a328-4849-9f57-d233041d0efc
+00:37:25.955 --> 00:37:30.335
+they're mostly the poorest. So
+I'm not saying that this is how
+
+NOTE Confidence: 0.8361549
+
+e5534662-caae-42c0-b81a-67f1b7c8f423
+00:37:30.335 --> 00:37:34.715
+you, right? But I'm saying what
+is rule based? OK, I'm just
+
+NOTE Confidence: 0.8361549
+
+4014cf07-827d-4c12-94b4-a857ac6b24a2
+00:37:34.715 --> 00:37:38.730
+telling rule based so in Rule
+based you write formal rules.
+
+NOTE Confidence: 0.84831846
+
+8ea21105-62f3-4a5a-a96e-e282e650ff7a
+00:37:39.260 --> 00:37:42.890
+And you you say that?
+
+NOTE Confidence: 0.8546401
+
+427325c8-f34e-4953-aaee-e02ca43d465c
+00:37:45.190 --> 00:37:49.858
+This is what the processing
+needs to be done. So you write
+
+NOTE Confidence: 0.8546401
+
+67408149-5bc7-42e1-81e1-a10143570c3f
+00:37:49.858 --> 00:37:54.915
+in a rule based the other one is
+statistical where you build a
+
+NOTE Confidence: 0.8546401
+
+eb8800d5-583b-404b-8018-1d23eade9789
+00:37:54.915 --> 00:37:58.027
+machine learning models OK or
+mathematical models or
+
+NOTE Confidence: 0.8546401
+
+c4cd2e62-7c6e-49e2-a0d6-500ef8172424
+00:37:58.027 --> 00:38:02.306
+probabilistic models, or the
+vector space. OK, so this is a
+
+NOTE Confidence: 0.8546401
+
+a14dea78-dd27-43ff-9153-efe42f980831
+00:38:02.306 --> 00:38:06.974
+major part in one of the units
+you have the word embedding
+
+NOTE Confidence: 0.8546401
+
+f443a2c8-d7eb-4729-84d6-2c33f978538c
+00:38:06.974 --> 00:38:10.864
+symbol, so so there are two
+approaches. One is statistical
+
+NOTE Confidence: 0.8546401
+
+239c8baf-1ec5-4b7b-b103-d389918505c5
+00:38:10.864 --> 00:38:14.754
+approach and rule based
+approach. OK now will be mostly
+
+NOTE Confidence: 0.8546401
+
+5cc40757-d6c5-42bc-8b37-8f0e3cb0fe23
+00:38:14.754 --> 00:38:15.921
+dealing with the.
+
+NOTE Confidence: 0.82939
+
+941b80e9-a3e8-4702-ac40-8ff82d93b831
+00:38:16.070 --> 00:38:19.454
+Statistical approach OK. Now
+we'll see the difference between
+
+NOTE Confidence: 0.82939
+
+90f5feea-7daf-44be-aa99-dd7e0d26fd4d
+00:38:19.454 --> 00:38:22.838
+rule based and statistical
+approach. in Rule based you
+
+NOTE Confidence: 0.82939
+
+0b3837b7-fdf8-4498-9bc3-0099b81d2e61
+00:38:22.838 --> 00:38:27.726
+write the rules. OK, so there
+are a lot of rules which you
+
+NOTE Confidence: 0.82939
+
+7c8406f1-a5f5-4602-b64c-ff73c68ac08c
+00:38:27.726 --> 00:38:32.614
+have to identify and then you
+have to write and you have to
+
+NOTE Confidence: 0.82939
+
+481166cf-81fc-4899-936a-de5af7305d3f
+00:38:32.614 --> 00:38:37.502
+write a normal Python code or
+SQL or Java code. OK and there
+
+NOTE Confidence: 0.82939
+
+08d8906d-347d-4864-9274-98e3a1e5b006
+00:38:37.502 --> 00:38:39.758
+are different specialized
+languages. Programming languages
+
+NOTE Confidence: 0.82939
+
+386a5da6-ce8d-486d-a3fd-fe5837c578af
+00:38:39.758 --> 00:38:44.646
+which you can use to write
+rules. OK now the other one is
+
+NOTE Confidence: 0.82939
+
+1b7289e1-36e1-433c-a9c8-fccc313e80c5
+00:38:44.646 --> 00:38:46.150
+statistical where you have.
+
+NOTE Confidence: 0.8732365
+
+524f60a0-72ed-47ac-b22c-de3973a20d5f
+00:38:46.320 --> 00:38:46.530
+So.
+
+NOTE Confidence: 0.84494466
+
+97d0f426-d97c-4ad5-9fb3-c457e9d52876
+00:38:48.200 --> 00:38:54.336
+You have a. You have models that
+are built. For example, if you
+
+NOTE Confidence: 0.84494466
+
+6067a3bb-08d1-4e60-8977-fb256791b2d8
+00:38:54.336 --> 00:39:00.472
+take suppose somebody's in the
+in in the form I given you like,
+
+NOTE Confidence: 0.84494466
+
+96b9615a-ae52-42d9-9cfc-dbf3aac068e8
+00:39:00.472 --> 00:39:06.608
+there are few kids who are
+talking OK Now the kids voice is
+
+NOTE Confidence: 0.84494466
+
+f9d60189-4a62-4244-a294-48c3b8bda101
+00:39:06.608 --> 00:39:11.328
+not properly recognized. Why?
+Because the data which we Voice
+
+NOTE Confidence: 0.84494466
+
+b832ba4b-c402-43b8-9a56-3d3423291c97
+00:39:11.328 --> 00:39:16.048
+Assistant has. You don't have
+proper data, so everything is
+
+NOTE Confidence: 0.84494466
+
+8e86beb1-466c-4960-a763-6ccb836dc7fa
+00:39:16.048 --> 00:39:17.464
+based on statistiques.
+
+NOTE Confidence: 0.8303596
+
+ac0d145c-d28c-47cc-b5f4-6095fcb48973
+00:39:17.760 --> 00:39:23.428
+OK, he said are or a whatever it
+is. It is automatically being
+
+NOTE Confidence: 0.8303596
+
+7cd7d430-789b-4745-a438-eb392183f597
+00:39:23.428 --> 00:39:28.224
+understood an the Paris funding
+meaning is generated. OK, so if
+
+NOTE Confidence: 0.8303596
+
+61d5ea62-4b31-43a7-a190-8d1832152875
+00:39:28.224 --> 00:39:29.968
+they have proper data.
+
+NOTE Confidence: 0.85947317
+
+80370ddb-84e8-496f-abb2-db0bf5708183
+00:39:30.950 --> 00:39:34.500
+OK, they have proper data. You
+can model the system.
+
+NOTE Confidence: 0.814482
+
+f9054fc3-0208-496d-a923-1c52aa63a0f2
+00:39:36.390 --> 00:39:42.450
+So that is mainly because of it.
+Do you have a lot of data you
+
+NOTE Confidence: 0.814482
+
+b30fa55b-35ff-4665-83f7-e8575837cd57
+00:39:42.450 --> 00:39:46.894
+can actually model the system?
+OK, so here is where statistical
+
+NOTE Confidence: 0.814482
+
+241b85ed-0c29-45f8-88e2-6f43fce3e8fe
+00:39:46.894 --> 00:39:51.742
+approach is used and most of the
+NLP things now are on
+
+NOTE Confidence: 0.814482
+
+49254cd3-e57d-4d48-bf37-ea3ae8c2685d
+00:39:51.742 --> 00:39:55.782
+statistical approach only. OK,
+so in the earlier days things
+
+NOTE Confidence: 0.814482
+
+416429db-272c-49c1-8815-26ac1ed34e03
+00:39:55.782 --> 00:40:00.226
+were very rule based approaches.
+Now since the advent of machine.
+
+NOTE Confidence: 0.8200861
+
+50ae2c27-4054-436d-91dc-cef1bbbd4886
+00:40:00.330 --> 00:40:04.970
+In learning and apply
+application of deep learning,
+
+NOTE Confidence: 0.8200861
+
+0104dce6-cb4b-42ca-a9ed-ad18cdfc2508
+00:40:04.970 --> 00:40:11.350
+things have changed. OK so you
+have lot of statistical tools
+
+NOTE Confidence: 0.8200861
+
+194a751d-b53f-4ce7-83a2-ea147772365c
+00:40:11.350 --> 00:40:17.730
+available right now. OK so
+that is about rule based and
+
+NOTE Confidence: 0.8200861
+
+12adc0c5-0751-4f17-8472-11e6d5dfb333
+00:40:17.730 --> 00:40:18.890
+statistical approach.
+
+NOTE Confidence: 0.8639811
+
+704faead-140e-43f0-9be8-6d613bb35135
+00:40:20.490 --> 00:40:24.986
+No. What is the
+what is the task?
+
+NOTE Confidence: 0.825506
+
+7cd1674a-c3f5-4fa0-8549-592cb8d98545
+00:40:26.750 --> 00:40:31.910
+Given a task, what will you do?
+OK, so you have a set of input.
+
+NOTE Confidence: 0.825506
+
+2302eabd-995c-4e89-b416-a0b7bc2d6946
+00:40:31.910 --> 00:40:32.942
+OK, that input.
+
+NOTE Confidence: 0.9237458
+
+30998a7b-c283-449f-8b9f-07acb3bcb882
+00:40:34.060 --> 00:40:35.070
+Is actually.
+
+NOTE Confidence: 0.85267013
+
+480081b7-94e3-448b-b6e8-4bc95f080cd7
+00:40:36.320 --> 00:40:41.336
+Given to a preprocessing step.
+So actually this is the. What is
+
+NOTE Confidence: 0.85267013
+
+17f53a7b-1303-4ef1-80fc-32384697db01
+00:40:41.336 --> 00:40:46.770
+the NLP steps that are there OK?
+In general OK Things will change
+
+NOTE Confidence: 0.85267013
+
+ff805b5b-c00f-4527-ba32-944270b9a6c4
+00:40:46.770 --> 00:40:51.368
+according to the applications.
+So given a text first, what will
+
+NOTE Confidence: 0.85267013
+
+03570668-b23e-419d-a9e5-086b7d7c51c1
+00:40:51.368 --> 00:40:55.130
+you do? You will actually do
+something about this
+
+NOTE Confidence: 0.85267013
+
+3309b976-445d-4abb-8b78-9456baf8db53
+00:40:55.130 --> 00:40:58.892
+preprocessing. After you do
+preprocessing the next is you
+
+NOTE Confidence: 0.85267013
+
+950521cf-ab1c-430c-8b22-27990edbd528
+00:40:58.892 --> 00:41:03.072
+represent the text OK that is
+being preprocessed and you
+
+NOTE Confidence: 0.85267013
+
+c2a73794-3b23-4a72-b012-132eaf641a6a
+00:41:03.072 --> 00:41:05.162
+extract features from them OK
+
+NOTE Confidence: 0.8296387
+
+a98ce118-8fc3-43d4-bd1f-09e2c0af6bc2
+00:41:05.162 --> 00:41:09.268
+and then. You apply machine
+learning or because I say
+
+NOTE Confidence: 0.8296387
+
+1b53339f-1be0-441b-9352-28b6e49677d7
+00:41:09.268 --> 00:41:13.228
+totally, mostly things are
+status tickle, so will tend to
+
+NOTE Confidence: 0.8296387
+
+9fef0f40-d455-4fdc-bc60-754fb573e94d
+00:41:13.228 --> 00:41:16.000
+statistical approach. However,
+we'll discuss some things
+
+NOTE Confidence: 0.8296387
+
+22f6b7ea-3d26-4281-8633-8ec0b81cfb37
+00:41:16.000 --> 00:41:19.564
+related to machine to rule based
+approach also OK.
+
+NOTE Confidence: 0.8469322
+
+bf7dd18d-cd80-4ddf-96b4-59024433ad2e
+00:41:20.590 --> 00:41:25.463
+And yes, after machine learning
+tools are applied, you get the
+
+NOTE Confidence: 0.8469322
+
+a15182cb-0dd2-4968-87d2-3b6d6acf9c7c
+00:41:25.463 --> 00:41:31.665
+result. OK, so this is the flow
+of or. The NLP steps that are
+
+NOTE Confidence: 0.8469322
+
+4fab5f6c-51b7-4826-9453-fb8fef968b56
+00:41:31.665 --> 00:41:36.538
+there. OK, so this is very
+important step, which is the
+
+NOTE Confidence: 0.8469322
+
+6b511324-46f8-4e14-8d66-67257daa6f14
+00:41:36.538 --> 00:41:40.968
+text preprocessing and some of
+the text preprocessing steps are
+
+NOTE Confidence: 0.8469322
+
+97eba31c-3278-4635-a31f-54afc4e32774
+00:41:40.968 --> 00:41:45.398
+tokenization. Don't worry, this
+is a separate week. We'll be
+
+NOTE Confidence: 0.8469322
+
+116cf511-50b6-4337-8031-e6fdf7cc9abf
+00:41:45.398 --> 00:41:48.499
+discussing on text
+preprocessing. OK, so this
+
+NOTE Confidence: 0.8469322
+
+83f3d4da-61a1-4cc9-9a86-d08328ac0322
+00:41:48.499 --> 00:41:49.828
+stopping by now.
+
+NOTE Confidence: 0.83794725
+
+295210b1-3ed1-4682-96f5-8a8e20b03f22
+00:41:50.630 --> 00:41:54.806
+So you have tokenization OK,
+then stemming lemmatization? So
+
+NOTE Confidence: 0.83794725
+
+9e27f439-b6a9-453e-b669-75f60e940048
+00:41:54.806 --> 00:42:00.374
+all these are the different text
+preprocessing. This is a kind of
+
+NOTE Confidence: 0.83794725
+
+8624aff3-ee79-4660-9e23-b830b8751e68
+00:42:00.374 --> 00:42:05.942
+cleaning of the text. OK, so all
+these cleaning it depends on
+
+NOTE Confidence: 0.83794725
+
+b3234cd5-9724-4f0c-a09a-4bf9ecfdba91
+00:42:05.942 --> 00:42:10.582
+your application. Like for
+example you you are right, you
+
+NOTE Confidence: 0.83794725
+
+c5ec5b39-e6f7-4f68-9edc-526056d07d8d
+00:42:10.582 --> 00:42:15.222
+want to write some kind of
+similarity check. OK, some
+
+NOTE Confidence: 0.83794725
+
+7faffa12-4601-49a3-9e87-52dd2e9c1be9
+00:42:15.222 --> 00:42:19.862
+similarity check. Suppose you
+have document A and document be
+
+NOTE Confidence: 0.83794725
+
+3e41f327-5634-4bf7-8042-f2a26b957650
+00:42:19.862 --> 00:42:21.254
+OK, A&B is.
+
+NOTE Confidence: 0.8078873
+
+e893545f-c1ba-4285-866b-64c3b23fd8c7
+00:42:21.620 --> 00:42:26.716
+You want to check how? How
+similar it is. OK, so you can
+
+NOTE Confidence: 0.8078873
+
+f3340a3f-967b-43a4-bbce-e52450e8726c
+00:42:26.716 --> 00:42:31.812
+actually remove ease all the you
+call them as stop words. OK like
+
+NOTE Confidence: 0.8078873
+
+bc45a49b-3b39-4755-a7fb-1a5a12c806da
+00:42:31.812 --> 00:42:36.516
+a the and OK. So all these
+things can be removed from
+
+NOTE Confidence: 0.8078873
+
+d32d3f88-1df8-4ce7-8f50-2b6770cb348f
+00:42:36.516 --> 00:42:38.868
+there. OK then you can compare.
+
+NOTE Confidence: 0.8392595
+
+430e20cf-cad0-4105-be9b-af5f7df08c25
+00:42:39.770 --> 00:42:45.746
+OK, so this kind of things is
+called as preprocessing, so that
+
+NOTE Confidence: 0.8392595
+
+d77be15c-49a6-4736-8680-3f4aff4a8340
+00:42:45.746 --> 00:42:51.224
+is what is text preprocessing
+which will be dealing in the
+
+NOTE Confidence: 0.8392595
+
+15de3d9b-513c-43f3-a19b-0aaf537da47a
+00:42:51.224 --> 00:42:52.718
+next plus OK.
+
+NOTE Confidence: 0.8379925
+
+61bee633-fe48-4345-9d60-24b7d51d6757
+00:42:53.450 --> 00:42:59.442
+So to wrap up what we have seen
+today is mainly about the formal
+
+NOTE Confidence: 0.8379925
+
+cda1bc5d-50a7-4883-a5bd-f4d1299c1b52
+00:42:59.442 --> 00:43:01.154
+introduction to the NLP.
+
+NOTE Confidence: 0.8200953
+
+5573404a-f5d5-489d-b1a3-a2d44e38eff4
+00:43:03.340 --> 00:43:09.255
+And then P jargon. OK, So what
+is NLP? There is no specific
+
+NOTE Confidence: 0.8200953
+
+98d08b7f-f158-452d-bd47-2572fb439c12
+00:43:09.255 --> 00:43:14.715
+definition of NLP. You say that
+NLP is actually, you can just
+
+NOTE Confidence: 0.8200953
+
+fb0e9f6f-dc96-4aef-b142-af1daa264729
+00:43:14.715 --> 00:43:19.265
+say it is the computer science
+plus linguistics plus machine
+
+NOTE Confidence: 0.8200953
+
+6c034d6c-47da-494a-a6b8-87938169cead
+00:43:19.265 --> 00:43:24.270
+learning OK. Plus mathematical
+models and so on. OK, so it's
+
+NOTE Confidence: 0.8200953
+
+6788bda2-e444-4503-8e40-b4991fbc38e4
+00:43:24.270 --> 00:43:27.910
+combination of different things
+together, mainly due process
+
+NOTE Confidence: 0.8200953
+
+aad9b865-bde9-4a79-b5dc-4c4a65782f09
+00:43:27.910 --> 00:43:33.370
+human language by the computer,
+OK, and you have the data which
+
+NOTE Confidence: 0.8200953
+
+46bfde54-4d77-4a94-a715-05bf27c52610
+00:43:33.370 --> 00:43:35.645
+is there in the NLP.
+
+NOTE Confidence: 0.8056394
+
+b930f20a-73ab-4862-824e-1a18c02d2056
+00:43:36.030 --> 00:43:40.200
+And we saw it as as unstructured
+data in lies.
+
+NOTE Confidence: 0.7643079
+
+4c80ca2f-de23-4ca2-be3d-c3a4a6650002
+00:43:41.540 --> 00:43:43.590
+NLP data lies under the
+
+NOTE Confidence: 0.8450828
+
+17488b41-3c7e-40ba-831c-1fc485b7269f
+00:43:43.590 --> 00:43:48.640
+unstructured category. And and
+of which will be only dealing
+
+NOTE Confidence: 0.8450828
+
+412e3b91-c147-4f68-b87e-117535f05295
+00:43:48.640 --> 00:43:53.480
+with the text based data. OK,
+an you have natural language
+
+NOTE Confidence: 0.8450828
+
+028fe49f-bc6a-47b6-a620-adc4c2acc6af
+00:43:53.480 --> 00:43:56.120
+generation and natural
+language understanding, OK?
+
+NOTE Confidence: 0.8495288
+
+fcb15a78-111c-426e-b9c8-c3360c807f54
+00:43:57.350 --> 00:44:03.515
+Yes, and some of the terms we we
+just got to hear about the terms
+
+NOTE Confidence: 0.8495288
+
+862d6ca8-8a7b-437b-ab05-a41c3e975fd1
+00:44:03.515 --> 00:44:04.748
+like morphology, syntax,
+
+NOTE Confidence: 0.8292907
+
+1402c2e3-f33a-42c3-b094-e9db5b29d3a5
+00:44:04.748 --> 00:44:09.490
+symantics. And so on. And the
+two main approaches of dealing
+
+NOTE Confidence: 0.8292907
+
+71f9100c-cc76-49dd-b3d6-ad555f6fc5ee
+00:44:09.490 --> 00:44:13.428
+with the machine, even this is
+also part of making machine
+
+NOTE Confidence: 0.8292907
+
+716a8451-d771-424a-9394-3dfe5113b0d8
+00:44:13.428 --> 00:44:17.008
+learning. Also, if you tame,
+say, machine learning, it is
+
+NOTE Confidence: 0.8292907
+
+b211d24b-8de2-4976-9f43-676e7f90da16
+00:44:17.008 --> 00:44:20.946
+actually status tickle. But any
+programming or any task you are
+
+NOTE Confidence: 0.8292907
+
+6b563caa-c730-4c29-89d5-ca46d7b5a3c5
+00:44:20.946 --> 00:44:25.600
+supposed to do, either you go
+for rule based or you go for
+
+NOTE Confidence: 0.8292907
+
+da22213b-075b-41ba-8fe3-e2c7d4d84c77
+00:44:25.600 --> 00:44:29.538
+status tickle approach OK, then
+OK, then this is the steps
+
+NOTE Confidence: 0.8292907
+
+4a11dba0-d2e4-42ff-b88e-ffbdd143b56d
+00:44:29.538 --> 00:44:33.834
+involved in it and the next
+class we'll see about this step,
+
+NOTE Confidence: 0.8292907
+
+4b3c273d-9225-47c7-83a6-7bd936dbb67a
+00:44:33.834 --> 00:44:35.266
+which is called us.
+
+NOTE Confidence: 0.81020546
+
+2cbf8159-e673-47b1-8c87-2a9e3dd17830
+00:44:35.910 --> 00:44:37.160
+Text preprocessing.
+
+NOTE Confidence: 0.44526017
+
+b2155b22-adca-4b95-99ee-d582085250ef
+00:44:39.320 --> 00:44:39.970
+K.
+
+NOTE Confidence: 0.8638962
+
+61d065f5-b808-460f-b691-d5b8bcb68472
+00:44:41.460 --> 00:44:43.980
+Just any queries
+you have I think.
+
+NOTE Confidence: 0.7085519
+
+36d845f9-1cc3-472e-920a-7c7162e28ffb
+00:44:45.310 --> 00:44:49.214
+We had almost 15 minutes
+so any queries?
+
+NOTE Confidence: 0.7360847
+
+ada4bcd5-0936-48c8-a0c1-a0c0b1168087
+00:44:54.710 --> 00:44:56.420
+Shall I wind up for today?
+
+NOTE Confidence: 0.8286552
+
+7941550d-ab77-49be-9580-648592146804
+00:44:59.180 --> 00:45:00.740
+OK, OK so.
+
+NOTE Confidence: 0.8753837
+
+f15e12c7-d8df-4fb7-a71f-5fce277ca052
+00:45:01.790 --> 00:45:03.658
+Yes, just a minute.
+
+NOTE Confidence: 0.68982565
+
+f0a1cfe7-4f6e-4c2f-a010-b5e0d981ee30
+00:45:13.110 --> 00:45:13.700
+Let's ask.
+
